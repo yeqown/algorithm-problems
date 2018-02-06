@@ -1,4 +1,4 @@
-// 最长子序列
+// 最长连续增长子序列
 
 /*
 * Q: Given an unsorted array of integers, find the number of longest increasing subsequence.
