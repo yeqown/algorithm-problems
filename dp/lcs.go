@@ -13,11 +13,11 @@
 * 如果xm ≠ yn，那么zk ≠ xm，意味着Z是Xm−1和Y的一个LCS。
 * 如果xm ≠ yn，那么zk ≠ yn，意味着Z是X和Yn−1的一个LCS。
 *
-*			   |- 0								(i = 0 | j = 0)
-*			   |
-*	LCS[i,j] = |- LCS[i-1, j-1] 				(i, j > 0 & Str1[i] = Str2[j])
-*			   |
-*			   |- MAX(LCS[i, j-1], LCS[i-1, j])	(j, j> 0 & Str1[i] ≠ Str2[j])
+*              |- 0                             (i = 0 | j = 0)
+*              |
+*   LCS[i,j] = |- LCS[i-1, j-1]                 (i, j > 0 & Str1[i] = Str2[j])
+*              |
+*              |- MAX(LCS[i, j-1], LCS[i-1, j]) (j, j> 0 & Str1[i] ≠ Str2[j])
  */
 
 package dp
