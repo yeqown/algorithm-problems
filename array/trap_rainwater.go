@@ -21,6 +21,7 @@ import (
 )
 
 // approch 1
+// 总结：时间耗费和空间耗费都比较高，意味着还需要继续训练算法思想，这个算比较笨的蛮力法
 // Time Limit Exceeded
 func TrapRainWater(nums []int) int {
 	var trapped_rw int = 0
@@ -50,21 +51,17 @@ func trimZeroBesideOfArray(nums []int) []int {
 	l := len(nums)
 	i := 0
 	for nums[i] == 0 {
-		if i >= l-1 {
-			return []int{}
-		}
 		i++
 	}
 	j := len(nums) - 1
 	for nums[j] == 0 {
 		j--
-		if j <= 0 {
-			return []int{}
-		}
 	}
 	// fmt.Println(nums[i:j+1], i, j)
-	// new_array = append(new_array, nums[i:j]...)
-	// fmt.Println(new_array)
+	if j < i {
+		return []int{}
+	}
+
 	return nums[i : j+1]
 }
 
@@ -80,6 +77,7 @@ func lessOneArray(nums []int) []int {
 }
 
 // approch 2
+//
 func TrapRainWaterApproch2(height []int) int {
 	l := len(height)
 	var (
