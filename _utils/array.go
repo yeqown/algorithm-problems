@@ -28,3 +28,31 @@ func MaxOfArray(arr []int) (max int) {
 func MidOfArrary(arr []int) (mid int) {
 	return arr[0]
 }
+
+func MaxOfThree(a, b, c int) (max int) {
+	max = a
+	if max < b {
+		max = a
+	}
+	if max < c {
+		max = c
+	}
+	return
+}
+
+func MinOfThree(a, b, c int) (min int) {
+	min = a
+	if min > b {
+		min = b
+	}
+	if min > c {
+		min = c
+	}
+	return
+}
+
+func MidOfThree(a, b, c int) int {
+	max := MaxOfThree(a, b, c)
+	min := MinOfThree(a, b, c)
+	return a + b + c - max - min
+}
