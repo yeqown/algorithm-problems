@@ -7,7 +7,7 @@ package array
  */
 
 import (
-	"fmt"
+// "fmt"
 )
 
 const MISS = -1
