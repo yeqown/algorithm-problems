@@ -52,16 +52,18 @@ func trimZeroBesideOfArray(nums []int) []int {
 	i := 0
 	for nums[i] == 0 {
 		i++
+		if i > l-1 {
+			return []int{}
+		}
 	}
 	j := len(nums) - 1
 	for nums[j] == 0 {
 		j--
+		if j < 0 {
+			return []int{}
+		}
 	}
 	// fmt.Println(nums[i:j+1], i, j)
-	if j < i {
-		return []int{}
-	}
-
 	return nums[i : j+1]
 }
 

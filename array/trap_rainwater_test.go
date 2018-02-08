@@ -1,6 +1,8 @@
 package array
 
 import (
+	. "alg/_utils"
+
 	"testing"
 )
 
@@ -53,7 +55,7 @@ func Test_trimZeroBesideOfArray(t *testing.T) {
 	arr := []int{0, 0, 0, 0, 1, 23, 2, 5, 62, 0}
 	excepted := []int{1, 23, 2, 5, 62}
 
-	if new_arr := trimZeroBesideOfArray(arr); !equalArray(new_arr, excepted) {
+	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
 		t.Fatal("want array: ", excepted, "have: ", new_arr)
 	}
 }
@@ -62,7 +64,7 @@ func Test_trimZeroBesideOfArray_case1(t *testing.T) {
 	arr := []int{0, 0, 0, 0}
 	excepted := []int{}
 
-	if new_arr := trimZeroBesideOfArray(arr); !equalArray(new_arr, excepted) {
+	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
 		t.Fatal("want array: ", excepted, "have: ", new_arr)
 	}
 }
@@ -71,7 +73,7 @@ func Test_trimZeroBesideOfArray_case2(t *testing.T) {
 	arr := []int{1, 0, 0, 0, 0, 1, 0}
 	excepted := []int{1, 0, 0, 0, 0, 1}
 
-	if new_arr := trimZeroBesideOfArray(arr); !equalArray(new_arr, excepted) {
+	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
 		t.Fatal("want array: ", excepted, "have: ", new_arr)
 	}
 }
@@ -80,19 +82,7 @@ func Test_lessOneArray(t *testing.T) {
 	arr := []int{1, 2, 3, 4, 0, 0, 2, 2, 2, 2}
 	excepted := []int{0, 1, 2, 3, 0, 0, 1, 1, 1, 1}
 
-	if new_arr := lessOneArray(arr); !equalArray(new_arr, excepted) {
+	if new_arr := lessOneArray(arr); !EqualArray(new_arr, excepted) {
 		t.Fatal("want array: ", excepted, "have: ", new_arr)
 	}
-}
-
-func equalArray(arr1, arr2 []int) bool {
-	if len(arr1) != len(arr2) {
-		return false
-	}
-	for pos, val := range arr1 {
-		if arr2[pos] != val {
-			return false
-		}
-	}
-	return true
 }
