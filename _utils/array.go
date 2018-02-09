@@ -32,7 +32,7 @@ func MidOfArrary(arr []int) (mid int) {
 func MaxOfThree(a, b, c int) (max int) {
 	max = a
 	if max < b {
-		max = a
+		max = b
 	}
 	if max < c {
 		max = c
