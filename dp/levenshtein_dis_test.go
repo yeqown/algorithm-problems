@@ -41,3 +41,47 @@ func Test_LevenshteinDistance(t *testing.T) {
 		t.Fatalf("wrong dis is got, %d, actual: %d", dis, 2)
 	}
 }
+
+func Test_LevenshteinDistance_case1(t *testing.T) {
+	source := ""
+	dest := "GAMBOL"
+
+	dis := LevenshteinDistance(source, dest)
+
+	if dis != 6 {
+		t.Fatalf("wrong dis is got, %d, actual: %d", dis, 2)
+	}
+}
+
+func Test_LevenshteinDistance_case2(t *testing.T) {
+	source := "GUMBO"
+	dest := ""
+
+	dis := LevenshteinDistance(source, dest)
+
+	if dis != 5 {
+		t.Fatalf("wrong dis is got, %d, actual: %d", dis, 2)
+	}
+}
+
+func Test_LevenshteinDistance_case3(t *testing.T) {
+	source := "GUMBO"
+	dest := "GUMBO"
+
+	dis := LevenshteinDistance(source, dest)
+
+	if dis != 0 {
+		t.Fatalf("wrong dis is got, %d, actual: %d", dis, 2)
+	}
+}
+
+func Test_LevenshteinDistance_case4(t *testing.T) {
+	source := ""
+	dest := ""
+
+	dis := LevenshteinDistance(source, dest)
+
+	if dis != 0 {
+		t.Fatalf("wrong dis is got, %d, actual: %d", dis, 2)
+	}
+}
