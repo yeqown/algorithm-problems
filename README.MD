@@ -8,6 +8,7 @@
 * Binary Search
 * Trap RainWater
 * Jump Game - II
+* Robot Walk
 
 ### [Backtracking](https://github.com/yeqown/alg/tree/master/backtracking)
 
