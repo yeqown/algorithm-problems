@@ -1,0 +1,17 @@
+飞机票(指限定条件)　endoresement/restrictions　
+旅客姓名　　 name of passenger 
+旅行经停地点 good for passage between 
+起点城市　　 from 
+起飞日期　　 date 
+起飞时间　　 time 
+订座情况　　 status 
+机票确认　　 ticket confirm 
+登机口　　　 gate 
+前往城市　　 to　
+承运人(公司) carrier 
+航班号　　　 flight no. 
+座舱等级　　 class (fare basis) 
+机号　　　　 plane No. 
+机座号　　　 seat No. 
+吸烟坐位　　 smoking seat 
+非吸烟席　　 non-smoking seat

@@ -1,0 +1,100 @@
+1. 交通规则　 traffic regulation 
+2. 路标　　　 guide post 
+3. 里程碑　　 milestone 
+4. 停车标志　 mark car stop 
+5. 红绿灯　　 traffic light 
+6. 自动红绿灯 automatic traffic signal light 
+7. 红灯　　　 red light 
+8. 绿灯　　　 green light 
+9. 黄灯　　　 amber light 
+10. 交通岗　　traffic post 
+11. 岗亭　　　police box 
+12. 交通警　　traffic police 
+13. 打手势　　pantomime 
+14. 单行线　　single line 
+15. 双白线　　double white lines 
+16. 双程线　　dual carriage-way 
+17. 斑马线　　zebra stripes 
+18. 划路线机　traffic line marker 
+19. 交通干线　artery traffic 
+20. 车行道　　carriage-way 
+21. 辅助车道　lane auxiliary 
+22. 双车道　　two-way traffic 
+23. 自行车通行cyclists only 
+24. 单行道　　one way only 
+25. 窄路　　　narrow road 
+26. 潮湿路滑　slippery when wet 
+27. 陡坡　　　steep hill 
+28. 不平整路　rough road 
+29. 弯路　　　curve road ; bend road 
+30. 连续弯路　winding road 
+31. 之字路　　double bend road 
+32. 之字公路　switch back road 
+33. 下坡危险　dangerous down grade 
+34. 道路交叉点road junction 
+35. 十字路　　cross road 
+36. 左转　　 turn left 
+37. 右转　　 turn right 
+38. 靠左　　 keep left 
+39. 靠右　　 keep right 
+40. 慢驶　　 slow 
+41. 速度　　 speed 
+42. 超速　　 excessive speed 
+43. 速度限制 speed limit 
+44. 恢复速度 resume speed 
+45. 禁止通行 no through traffic 
+46. 此路不通 blocked 
+47. 不准驶入 no entry 
+48. 不准超越 keep in line ; no overhead 
+49. 不准掉头 no turns 
+50. 让车道　 passing bay 
+51. 回路　　 loop 
+52. 安全岛　 safety island 
+53. 停车处　 parking place 
+54. 停私人车 private car park 
+55. 只停公用车 public car only 
+56. 不准停车 restricted stop 
+57. 不准滞留 restricted waiting 
+58. 临街停车 parking on-street 
+59. 街外停车 parking off-street 
+60. 街外卸车 loading off-street 
+61. 当心行人 caution pedestrian crossing 
+62. 当心牲畜 caution animals 
+63. 前面狭桥 narrow bridge ahead 
+64. 拱桥　　 hump bridge 
+65. 火车栅　 level crossing 
+66. 修路　　 road works 
+67. 医院　　 hospital 
+68. 儿童　　 children 
+69. 学校　　 school 
+70. 寂静地带 silent zone 
+71. 非寂静地带 silent zone ends 
+72. 交通管理 traffic control 
+73. 人山人海 crowded conditions 
+74. 拥挤的人 jam-packed with people 
+75. 交通拥挤 traffic jam 
+76. 水泄不通 overwhelm 
+77. 顺挤　　 extrusion direct 
+78. 冲挤　　 extrusion impact 
+79. 推挤　　 shoved 
+80. 挨身轻推 nudging 
+81. 让路　　 give way 
+82. 粗心行人　　 careless pedestrian 
+83. 犯交通罪　　 committing traffic offences 
+84. 执照被记违章 endorsed on driving license 
+85. 危险驾驶　　 dangerous driving 
+86. 粗心驾车　　 careless driving 
+87. 无教员而驾驶 driving without an instructor 
+88. 无证驾驶　　 driving without license 
+89. 未经车主同意 without the owner's consent 
+90. 无第三方保险 without third-party insurance 
+91. 未挂学字牌　 driving without a "L" plate 
+92. 安全第一　　 safety first 
+93. 轻微碰撞　　 slight impact 
+94. 迎面相撞　　 head-on collision 
+95. 相撞　　　　 collided 
+96. 连环撞　　　 a chain collision 
+97. 撞车　　　　 crash 
+98. 辗过　　　　 run over 
+99. 肇事逃跑司机 hit-run driver 
+100. 冲上人行道　drive onto the pavement

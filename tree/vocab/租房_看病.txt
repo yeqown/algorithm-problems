@@ -1,0 +1,214 @@
+居住地点：
+home stay 住在当地居民家中 
+dormitory 大学宿舍
+flat 公寓 
+hostel 青年公寓
+landlady 房东太太 
+landlord 房东
+surroundings 环境 
+single room 单人间
+double room 双人间 
+rent 租金
+
+室内家具：
+(un)furnished (不)配备家具的 
+furniture 家具
+fitting 装置，家具 
+suite （一套）家具 
+furnish 布置 
+fit up 装备
+decorate 装饰，布置 
+ornament 装饰，美化
+armchair 配齐，装备 
+bookcase 书架
+cupboard 碗橱 
+bureau 写字台
+bench 长椅 
+settle 长椅
+stool 凳子 
+deckchair 折叠帆布长椅
+high chair 高脚椅 
+couch 长沙发
+settee 中小型沙发 
+divan 木制软垫长椅
+bedstead 床架 
+hammock 吊床
+chest of drawers 五斗橱 
+bureau （卧室内）有抽屉的柜子
+sideboard 餐具柜 
+cabinet 酒柜
+
+室内设施： 
+facilities 设施
+bathroom 卫生间 
+shower 淋浴
+kitchen 厨房 
+air-conditional 有空调的
+heater 加热器 
+central heating 中央暖气系统
+refrigerator 电冰箱 
+microwave oven 微波炉
+balcony 阳台 
+attic room 顶楼，阁楼
+
+家纺布艺： 
+towel 毛巾
+mattress 床垫 
+mat 地席，垫子
+cushion靠垫，坐垫，椅垫 
+blanket 毯子
+rug 小地毯 
+carpet 地毯
+quilt 被子 
+bedspread 床罩
+sheet 床单 
+pillow 枕头
+pillowcase 枕头套 
+bolster 长枕套
+bed line 被单和枕套 
+mat 席子
+mattress 床垫 
+curtain 窗帘，帘子
+drape 窗帘 
+drapery 有褶子的布料。窗帘布料
+hangings 门帘，帷幕 
+wallpaper 壁纸，墙纸
+canopy 顶棚，天棚 
+awning （窗/门上的）遮蓬
+shutters 百叶窗 
+日常用品：
+utensil 器皿，用具 
+ashtray 烟灰缸
+bedside-lamp 床头灯 
+bowl 碗
+comb 梳子 
+french windows 落地灯
+kettle 水壶 
+mirror 镜子
+radiator 取暖电炉 
+safety-razor 安全剃刀
+scale 磅秤 
+toothbrush 牙刷
+
+常用句型：
+what’s the rent? 
+how much is _______?
+how much does ______ cost? 
+rent costs approximately ______.
+the average water bill is _______. 
+two people need at least ______ for ______.
+is there a _______? are there any ______? 
+dose it have a (any)_______?
+how many _______ are there? 
+when can i _______?
+how about monday? 
+why don’t you come on _____?
+can i see _______ this week? 
+
+生活场景 看病就医
+症状： 
+symptoms 病症
+have a cold 感冒 
+flu 流感
+have a cough 咳嗽 
+have a sore throat 嗓子痛
+have a stomachache 胃痛 
+have a toothache 牙痛
+have a fever 发烧 
+have a stuffed nose 鼻子不通
+pneumonia 肺炎 
+liver trouble 肝炎
+allergy 过敏 
+feel dizzy 头晕
+stiff 僵硬的 
+twisted/ sprained 扭伤的
+twinge 刺痛 
+sneeze 打喷嚏
+hiccup 打嗝 
+vomit 呕吐
+sick 恶心 
+swelling 肿胀
+—itis 。。。。的发炎 
+bump 肿块
+ulcer 溃疡 
+cancer 癌，恶性肿瘤
+birthmark 胎记 
+infect 传染
+cramp 痉挛 
+paralysis 麻痹，瘫痪，无能力
+
+药品： 
+medication 药物
+pills 药丸 
+tablet 药片
+ointment 药膏 
+power 药粉
+drop 滴剂 
+mixture 合剂
+syrup 糖浆 
+pad 药棉块
+penicillin 盘尼西林（青霉素） 
+eye drops 眼药
+antibiotic 抗生素 
+vitamin 维他命（维生素）
+aspirin 阿司匹林 
+non-drowsy 不使人困倦的
+
+治疗： 
+first aid 急救
+therapy 疗法 
+diagnosis 诊断
+soothe 安慰，缓和，安慰 
+recover 复原，痊愈
+recuperate 康复，恢复 
+see a doctor 看病
+send for a doctor 请医生 
+feel one’s pulse 量脉搏
+take one’s blood pressure 量血压 
+take one’s temperature 量体温
+give a prescription/ prescribe a medicine/ write out a prescription 开药 
+make up a prescription 配药
+take medicine/ take pills 吃药 
+get an injection/ have an injection/ receive an injection 打针
+operation 外科手术 
+transplant 移植手术
+have an operation 动手术 
+be operated on …for… 开刀
+have an inoculation against smallpox 大天花疫苗 
+dose 给。。。服药
+dress 包扎 
+bandage 扎上绷带
+
+常用句型： 
+have you had any pains in your chest recently?
+yes, i have.. in fact i had ______ last week. 
+have you had a bad cough recently?
+yeah, i had a terrible _______ the other day. 
+have you had the flu recently?
+yes, i’ve had many ________ the past few weeks. 
+have you ever had a broken _______?
+yes, i have. i broken my arm once when i was 12. 
+have you ever had broken your ________?
+yes. when i was 12, i fell down and broken my arm. 
+how often do you ________?
+every day. 
+once in a while.
+almost never. 
+
+SARS专题：
+sars-severe acute respiratory syndrome 
+outbreak n.（疾病的）发作
+early this year, there is massive outbreak in guangdong province. 
+epidemic n.　疫病流行 
+china is on top of epidemic. 
+pharmacy n.药房 
+fatality　n.死亡人数
+underfunded　a.资金不足的 
+infectious　a.有传染性的，易传染的 
+communicable　a.可传染的 
+segregate　v.隔 
+quarantine n.隔离 
+thermometer:体温计
+facial mask:口罩 
+sterilize:消毒
+sars affected area: sars 疫区

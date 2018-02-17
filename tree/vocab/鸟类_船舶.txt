@@ -1,0 +1,108 @@
+鸟类词汇
+swan 　　天鹅
+cob 　　雄天鹅
+cygnet 　　小天鹅
+gander, wild goose 　　雁
+dove 　　鸽
+pigeon 　　野鸽
+turtle dove 　　斑鸠
+pheasant 　　雉，野鸡
+grouse 　　松鸡
+partridge 　　石鸡，鹧鸪
+ptarmigan 　　雷鸟
+quail 　　鹌鹑
+ostrich 　　鸵鸟
+stork 　　鹳
+woodcock 　　山鹬
+snipe 　　鹬
+gull, seagull 　　海鸥
+albatross 　　信天翁
+kingfisher 　　翠鸟
+bird of paradise 　　极乐鸟，天堂鸟
+woodpecker　　 啄木鸟
+parrot 　　鹦鹉
+cockatoo 　　大葵花鹦鹉
+macaw 　　金刚鹦鹉
+parakeet 　　长尾鹦鹉
+cuckoo 　　杜鹃，布谷鸟
+crow 　　乌鸦
+blackbird 　　乌鸫
+magpie 　　喜鹊
+swallow 　　燕子
+sparrow 　　麻雀
+nightingale 　　夜莺
+canary 　　金丝雀
+starling 　　八哥
+thrush 　　画眉
+goldfinch 　　金翅雀
+chaffinch 　　苍头燕雀
+robin 　　知更鸟
+plover 　　千鸟
+lark 　　百鸟，云雀
+
+船只词汇
+dugout 　　独木舟
+barge 　　驳船
+kayak 　　（爱斯基摩人的）木排
+outrigger　　 桨叉架船
+rowing boat 　　划艇（美作：rowboat）
+gondola 　　（意大利的）长平底船
+whale mother ship 　　捕鲸母船
+hydrofoil 　　水翼船
+catamarans 　　双体船
+dredger　　 挖泥船
+boat 　　船
+brig, brigantine　　 双桅船
+canoe 　　小船，独木舟
+caravel 　　快帆船
+cargo boat 　　货船
+coaster 　　近海贸易货船
+cod-fishing boat 　　捕鳕鱼船
+whaler 　　捕鲸船
+collier 　　运煤船
+battleship 　　战船
+shallop 　　小型战船
+coastguard cutter, coastguard vessel　　 巡逻艇，缉私艇
+revenue cutter 　　缉私船
+patrol boat 　　巡逻艇
+minelayer 　　布雷艇
+minesweeper 　　扫雷艇
+torpedo boat 　　鱼雷艇
+frigate 　　轻护航舰
+gunboat 　　炮舰
+submarine 　　潜水艇
+destroyer　　 驱逐舰
+corvette　　轻巡洋舰
+cruiser 　　巡洋舰
+aircraft carrier 　　航空母舰
+ferry, ferryboat 　　渡船，渡轮
+fishing boat 　　渔船
+freighter　　 货船
+galleon　　 大型帆船
+galley 　　大划桨船
+hovercraft　　 气垫船
+icebreaker　　 破冰船
+launch　　艇
+lifeboat　　 救生艇
+lighter 　　驳船
+liner, ocean liner　　 远洋班轮
+merchant ship, merchantman 　　商船
+motorboat 　　摩托艇
+outboard 　　尾部装有马达的小艇
+paddle steamer, paddle boat 　　明轮船
+passenger boat 　　客船
+piragua, pirogue 　　独木舟
+raft 　　木筏
+rowing boat 　　划艇
+sailing boat, sailing ship　　 帆船
+schooner 　　纵帆船
+ship 　　船
+skiff 　　小艇
+sloop 　　单桅船
+steamer, steamship 　　汽轮
+tanker 　　油轮
+trawler　　 拖网渔船
+tug, tugboat　　拖轮
+vessel 　　船
+yacht　　 游艇
+yawl　　 船载小艇

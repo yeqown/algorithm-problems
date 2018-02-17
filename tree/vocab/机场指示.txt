@@ -1,0 +1,64 @@
+机场费　　　　airport fee 
+国际机场　　　international airport 
+国内机场　　　domestic airport　
+机场候机楼　　airport terminal 
+国际候机楼　　international terminal 
+国际航班出港　international departure 
+国内航班出站　domestic departure 
+卫星楼　　　　satellite 
+人口　　　　　in 
+出口　　　　　exit; out; way out 
+进站(进港、到达) arrivals 
+不需报关　　　nothing to declare 
+海关　　　　　customs 
+登机口　　　　gate; departure gate 
+候机室　　　　departure lounge 
+航班号　　　　FLT No (flight number) 
+来自......　　arriving from 
+预计时间　　　scheduled time (SCHED) 
+实际时间　　　actual time
+已降落　　　　landed 
+前往......　　departure to　
+起飞时间　　　departure time 
+延误　　　　　delayed 
+登机　　　　　boarding 
+由此乘电梯前往登机 stairs and lifts to departures 
+迎宾处　　　　greeting arriving 
+由此上楼　　　up; upstairs 
+由此下楼　　　down; downstairs 
+银行　　　　　bank 
+货币兑换处　　money exchange; currency exchange 
+订旅馆　　　　hotel reservation 
+行李暂存箱　　luggage locker 
+出站(出港、离开) departures 
+登机手续办理　check-in 
+登机牌　　　　boarding pass (card) 
+护照检查处　　passport control immigration 
+行李领取处　　luggage claim; baggage claim 
+国际航班旅客　international passengers 
+中转　　　　　transfers 
+中转旅客　　　transfer passengers 
+中转处　　　　transfer correspondence 
+过境　　　　　transit 
+报关物品　　　goods to declare 
+贵宾室　　　　V. I. P. room 
+购票处　　　　ticket office 
+付款处　　　　cash (衣人注：我记得挂CASH牌子的地方是兑换钱币的地方，存疑)
+出租车　　　　taxi 
+出租车乘车点　Taxipick-up point 
+大轿车乘车点　coachpick-up point 
+航空公司汽车服务处 airline coach service 
+租车处(旅客自己驾车) car hire 
+公共汽车　　　bus; coach service 
+公用电话　　　public phone; telephone 
+厕所　　　　　toilet; W. C; lavatories; rest room 
+男厕　　　　　men's; gent's; gentlemen's 
+女厕　　　　　women's; lady's 
+餐厅　　　　　restaurant 
+酒吧　　　　　bar　
+咖啡馆　　　　coffee shop; cafe 
+免税店　　　　duty-free shop　
+邮局　　　　　post office 
+出售火车票　　rail ticket 
+旅行安排　　　tour arrangement 
+行李牌　　　　luggage tag

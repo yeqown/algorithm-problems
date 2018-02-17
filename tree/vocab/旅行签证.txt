@@ -1,0 +1,18 @@
+姓　　　 surname 
+名　　　 first (given) name 
+性别　　 sex 
+出生日期 birthdate 
+国籍　　 nationality 
+护照号　 passport No. 
+编号　　 control No. 
+签发地　 Issue At 
+签发日期 Issue Date (或On) 
+失效日期(或必须在...日之前入境) expiry date ( 或 before) 
+停留期为......　　　　　　　　　for stays of 
+10天　　 ten days 
+8周　　　eight weeks 
+3个月　　three months 
+6个月　　six months 
+1年　　　one year 
+3年　　　three years 
+签证种类 visa type(class)

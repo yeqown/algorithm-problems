@@ -1,0 +1,31 @@
+boarding check　 登机牌
+plane ticket　　 飞机票
+flight, flying　 飞行
+bumpy flight　　 不平稳的飞行
+smooth flight　　平稳的飞行
+ramp　　　　　　 扶梯
+altitude, height 高度
+extra flight　　 加班
+non-stop flight　连续飞行
+circling　　　　 盘旋
+forced landing　 迫降
+speed, velocity　速度
+ceiling　　　　　上升限度
+cruising speed　 巡航速度
+top speed　　　　最高速度
+first class　　　头等舱
+night service　　夜航
+airsick　　　　　晕机
+to taxi along　　滑行
+landing　　　　　着陆
+to face the wind 迎风
+air route,air line　　　　　　　　 航线
+climbing,to gain height　　　　　　爬升
+economy class,tourist class　　　　经济舱
+connecting flight　　　　　　　　　衔接航班
+direct flight, straight flight　　 直飞
+to rock, to toss, to bump　　　　　颠簸
+to lose height, to fly low　　　　 降低
+to take off, take-off　　　　　　　起飞
+to board a plane,get into a plane　上飞机
+to get off a plane,alight from a plane 下飞机

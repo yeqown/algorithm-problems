@@ -1,0 +1,20 @@
+总公司 Head Office
+　　分公司 Branch Office
+　　营业部 Business Office
+　　人事部 Personnel Department
+　　(人力资源部)Human Resources Department
+　　总务部 General Affairs Department
+　　财务部 General Accounting Department
+　　销售部 Sales Department
+　　促销部 Sales Promotion Department
+　　国际部 International Department
+　　出口部 Export Department
+　　进口部 Import Department
+　　公共关系 Public Relations Department
+　　广告部 Advertising Department
+　　企划部 Planning Department
+　　产品开发部 Product Development Department
+　　研发部 Research and Development Department(R&D)
+　　秘书室 Secretarial Pool 
+
+注：Department可简写为 Dept.

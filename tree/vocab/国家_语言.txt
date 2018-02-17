@@ -1,0 +1,174 @@
+工作语言 Working Languages
+　　南非语 Afrikaans
+　　阿尔巴尼亚语 Albanian
+　　阿姆哈拉语 Amharic
+　　阿拉伯语 Arabic
+　　亚美尼亚语 Armenian
+　　阿塞拜疆语 Azerbaidzhan
+　　孟加拉语 Bengali
+　　保加利亚语 Bulgarian
+　　缅甸语 Burmese
+　　白俄罗斯语 Byelorussian
+　　汉语 Chinese
+　　捷克语 Czech
+　　丹麦语 Danish
+　　荷兰语 Dutch
+　　英语 English
+　　爱沙尼亚语 Estonian
+　　芬兰语 Finnish
+　　佛兰芒语 Flemish
+　　法语 French
+　　盖尔语 Gaelic
+　　格鲁吉亚语 Georgian
+　　德语 German
+　　希腊语 Greek
+　　吉吉拉特语 Gujarati
+　　希伯来语 Hebrew
+　　印地语 Hindi
+　　匈牙利语 Hungarian
+　　冰岛语 Icelandic
+　　印度尼西亚语 Indonesian
+　　意大利语 Italian
+　　日语 Japanese
+　　哈萨克语 Kazakh
+　　高棉语 Khmer
+　　吉尔吉斯语 Kirgiz
+　　斯瓦希里语 Kiswahili
+　　朝鲜语 Korean
+　　老挝语 Lao
+　　拉托维亚语 Latvian
+　　立陶宛语 Lithuanian
+　　马尔加什语 Malagasy
+　　马来语 Malay
+　　马耳他语 Maltese
+　　摩尔达维亚语 Moldavian
+　　蒙古语 Mongolian
+　　尼泊尔语 Nepali
+　　挪威语 Norwegian
+　　旁遮普语 Panjabi
+　　波斯语 Persian
+　　波兰语 Polish
+　　葡萄牙语 Portuguese
+　　罗马尼亚语 Romanian
+　　俄语 Russian
+　　塞尔维亚-克罗地亚语 Serbo-Croatian
+　　僧伽罗语 Sinhalese
+　　斯洛伐克语 Slovak
+　　索马里语 Somali
+　　西班牙语 Spanish
+　　瑞典语 Swedish
+　　塔吉克语 Tadzhik
+　　他加禄语 Tagalog
+　　泰语 Thai
+　　土库曼语 Turkhmen
+　　土耳其语 Turkish
+　　乌克兰语 Ukrainian
+　　乌尔都语 Urdu
+　　乌兹别克语 Uzbek
+　　越南语 Vietnamese
+　　地理类 GEOGRAPHIC ATTRIBUTES
+　　全球的 Global
+　　发展中国家 Developing countries
+　　发达国家 Developed countries
+　　非洲 AFRICA
+　　北非 North Africa
+    阿尔及利亚 Algeria
+　　埃及 Egypt
+　　利比亚 Libya
+　　毛里塔尼亚 Mauritania
+　　摩洛哥 Morocco
+　　突尼斯 Tunisia
+　　中非 Central Africa
+　　布隆迪 Burundi
+　　喀麦隆 Cameroon
+　　中非共和国 Central African Republic
+　　乍得 Chad
+　　刚果 Congo
+　　加篷 Gabon
+　　卢旺达 Rwanda
+　　扎伊尔 Zaire
+　　西非 West Africa
+　　贝宁 Benin
+　　布基纳法索 Burkina Faso
+　　佛得角 Cape Verde
+　　科特迪瓦 Cote d''Ivoire
+　　赤道几内亚 Equatorial Guinea
+　　冈比亚 Gambia
+　　加纳 Ghana
+　　几内亚 Guinea
+　　几内亚-比绍 Guinea-Bissau
+　　利比里亚 Liberia
+　　马里 Mali
+　　尼日尔 Niger
+　　尼日利亚 Nigeria
+　　圣多美和普林西比 Sao Tome and Principe
+　　塞内加尔 Senegal
+　　塞拉利昂 Sierra Leone
+　　多哥 Togo
+　　南部非洲 Southern Africa
+　　安哥拉 Angola
+　　博茨瓦纳 Botswana
+　　莱索托 Lesotho
+　　马拉维 Malawi
+　　莫桑比克 Mozambique
+　　纳米比亚 Namibia
+　　南非 South Africa
+　　斯威士兰 Swaziland
+　　赞比亚 Zambia
+　　津巴布韦 Zimbabwe
+　　东非 East Africa
+　　科摩罗 Comoros
+　　吉布提 Djibouti
+　　埃塞俄比亚 Ethiopia
+　　肯尼亚 Kenya
+　　马达加斯加 Madagascar
+　　毛里求斯 Mauritius
+　　塞舌尔 Seychelles
+　　索马里 Somalia
+　　苏丹 Sudan
+　　乌干达 Uganda
+　　坦桑尼亚 Tanzania
+　　厄立特里亚 Eritrea
+　　美洲 AMERICAS
+　　北美洲 North America
+　　加拿大 Canada
+　　美利坚合众国 United States of America
+　　墨西哥 Mexico
+　　中美洲 Central America
+　　哥斯达黎加 Costa Rica
+　　萨尔瓦多 El Salvador
+　　危地马拉 Guatemala
+　　洪都拉斯 Honduras
+　　尼加拉瓜 Nicaragua
+　　巴拿马 Panama
+　　加勒比地区 Caribbean Area
+　　安提瓜和巴布达 Antigua and Barbuda
+　　巴哈马 Bahamas
+　　巴巴多斯 Barbados
+　　伯利兹 Belize
+　　古巴 Cuba
+　　多米尼克国 Dominica
+　　多米尼加共和国 Dominican Republic
+　　格林纳达 Grenada
+　　海地 Haiti
+　　牙买加 Jamaica
+　　圣卢西亚 St Lucia
+　　圣基茨和尼维斯 St Kitts and Nevis
+　　圣文森特和格林纳丁斯 St Vincent and the Grenadines
+　　特立尼达和多巴哥 Trinidad and Tobago
+　　安圭拉 Anguilla
+　　百幕大 Bermuda
+　　蒙特塞拉特 Montserrat
+　　南美洲 South America
+　　阿根廷 Argentina
+　　玻利维亚 Bolivia
+　　巴西 Brazil
+　　智利 Chile
+　　哥伦比亚 Colombia
+　　尼瓜多尔 Ecuador
+　　圭亚那 Guyana
+　　巴拉圭 Paraguay
+　　秘鲁 Peru
+　　乌拉圭 Uruguay
+　　委内瑞拉 Venezuela
+　　苏里南 Suriname

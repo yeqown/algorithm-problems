@@ -1,0 +1,89 @@
+football, soccer, Association football 足球　　
+field, pitch 足球场　　
+midfield 中场　　
+kick-off circle 中圈　　
+half-way line 中线　　
+football, eleven 足球队　　
+football player 足球运动员　　
+goalkeeper, goaltender, goalie 守门员　　
+back 后卫　　
+left 左后卫　　
+right back 右后卫　　
+centre half back 中卫　　
+half back 前卫　　
+left half back 左前卫　　
+right half back 右前卫　　
+forward 前锋　　
+centre forward, centre 中锋　　
+inside left forward, inside left 左内锋　　
+inside right forward, inside right 右内锋　　
+outside left forward, outside left 左边锋　　
+outside right forward, outside right 右边锋　　
+kick-off 开球　　       bicycle kick, overhead kick 倒钩球　　
+chest-high ball       平胸球　　
+corner ball, corner    角球　　
+goal kick        球门球　
+ground ball, grounder 地面球　　
+hand ball        手触球　　
+header           头球　　
+penalty kick   点球　　
+spot kick        罚点球　　
+free kick         罚任意球　　
+throw-in          掷界外球　　
+ball handling   控制球　　
+block tackle   正面抢截　　
+body check   身体阻挡　　
+bullt        球门前混战　　
+fair charge    合理冲撞　　
+chesting        胸部挡球　　
+close-marking defence   钉人防守　　
+close pass, short pass   短传　　
+consecutive passes   连续传球　　
+deceptive movement   假动作　　
+diving header   鱼跃顶球　　
+flying headar    跳起顶球　　
+dribbling    盘球　　
+finger-tip save （守门员）托救球　　
+clean catching （守门员）跳球抓好　　
+flank pass    边线传球　　
+high lobbing pass    高吊传球　　
+scissor pass    交叉传球　　
+volley pass       凌空传球　　
+triangular pass    三角传球　　
+rolling pass, ground pass     滚地传球　　
+slide tackle    铲球　　
+clearance kick    解除危险的球　　
+to shoot    射门　　
+grazing shot    贴地射门　　
+close-range shot    近射　　
+long drive    远射　　
+mishit    未射中　　
+offside    越位　　
+to pass the ball    传球　　
+to take a pass    接球　　
+spot pass    球传到位　　
+to trap    脚底停球　　
+to intercept    截球　　
+to break through, to beat    带球过人　　
+to break loose    摆脱　　
+to control the midfield    控制中场　　
+to disorganize the defence    破坏防守　　
+to fall back    退回　　
+to set a wall    筑人墙　　
+to set the pace    掌握进攻节奏　　
+to ward off an assault    击退一次攻势　　
+to break up an attack    破坏一次攻势　　
+ball playing skill    控救技术　　
+total football    全攻全守足球战术　　
+open football    拉开的足球战术　　
+off-side trap    越位战术　　
+wing play    边锋战术　　
+shoot-on-sight tactics    积极的抢射战术　　
+time wasting tactics    拖延战术　　
+Brazilian formation    巴西阵式， 
+4-2-4 阵式　　
+four backs system    四后卫制　　
+four-three-three formation    4-3-3 阵式　　
+four-two-four formation    4-2-4 阵式　　
+red card    红牌（表示判罚出场）　　
+yellow card   黄牌（表示警告）

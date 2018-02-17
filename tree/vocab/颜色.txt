@@ -1,0 +1,39 @@
+pink　　　　　粉红色 
+salmon pink　 橙红色 
+baby pink　　 浅粉红色 
+shocking pink 鲜粉红色 
+brown　　　　 褐色, 茶色 
+beige　　　　 灰褐色 
+chocolate　　 红褐色, 赭石色 
+sandy beige　 浅褐色 
+camel　　　　 驼色 
+amber　　　　 琥珀色 
+khaki　　　　 卡其色 
+maroon　　　　褐红色 
+green　　　　 绿色 
+moss green　　苔绿色 
+emerald green 鲜绿色 
+olive green　 橄榄绿 
+blue　　　　　蓝色 
+turquoise blue 土耳其玉色 
+cobalt blue　 钴蓝色, 艳蓝色 
+navy blue　　 藏青色, 深蓝色, 天蓝色 
+aquamarine blue 蓝绿色 
+red　　　　　 红色 
+scarlet　　　 绯红, 猩红 
+mauve　　　　 紫红 
+wine red　　　葡萄酒红 
+purple, violet 紫色 
+lavender　　　淡紫色 
+lilac　　　　 浅紫色 
+antique violet 古紫色 
+pansy　　　　 紫罗兰色 
+white　　　　 白色 
+off-white　　 灰白色 
+ivory　　　　 象牙色 
+snowy white　 雪白色 
+oyster white　乳白色 
+gray　　　　　灰色 
+charcoal gray 炭灰色 
+smoky gray　　烟灰色 
+misty gray　　雾灰色

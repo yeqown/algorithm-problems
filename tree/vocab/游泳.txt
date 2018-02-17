@@ -1,0 +1,39 @@
+Swimming 游泳
+swimming pool 游泳池
+changing room 更衣室
+shower 淋浴
+diving platform 跳台
+ten-meter platform 10米跳台
+five-meter platform 5米跳台
+three-meter springboard 3米跳板
+one-meter springboard 1米跳板
+diving pool 跳水池
+non-swimmer's pool 浅水池
+swimmer's pool 深水池
+starting block 出发台
+starting dive 出发起跳
+rope with cork floats 水线
+swimming lane 泳道
+touching the finishing line 终点触线
+timekeeper 计时员
+lifesaver, lifeguard 救生员
+land drill 陆上练习
+breaststroke 蛙泳
+crawl stroke 爬泳
+back stroke 仰泳
+side stroke 侧泳
+butterfly stroke 蝶泳
+dolphin butterfly stroke 海豚式蝶泳
+treading water 踩水
+underwater swimming 潜泳
+swimming pool with artificial waves 人工海浪泳池
+artificial waves 人工海浪
+swimming trunks 泳裤
+swimsuit, swimming suit 泳衣
+swimming cap 泳帽
+bikini 比基尼泳衣
+bikini top 比基尼乳罩
+bikini bottom 比基尼式泳裤
+surfing 冲浪
+surfboard 冲浪板
+water ski 滑水橇

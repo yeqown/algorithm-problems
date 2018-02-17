@@ -1,0 +1,39 @@
+    CCD 分辨率 CCD Pixels 
+　　影像分辨率 Image Size
+　　ISO 感光度 Sensitivity　　
+    镜头性能 Lens
+　　数字变焦 Digital Zoom
+　　自动对焦 Autofocus
+　　手动对焦 Manualfocus
+　　一般对焦范围 General Shooting Distance
+　　近拍对焦范围 Macro Shooting Distance
+　　光圈范围 Aperture Range
+　　白平衡 White Balance
+　　快门速度 Shutter
+　　内建闪光灯 Built-in Flash
+　　外接闪光灯 Supported Speedlights
+　　闪光灯模式 Flash Mode
+　　曝光补偿 Exposure Compensation
+　　测光方式 Exposure Metering
+　　光圈先决 Aperture-Priority Auto
+　　快门先决 Shutter-Priority Auto
+　　连拍 Continuous Capture Modes
+　　远程遥控 Remote
+　　三角架使用 Tripod Mount
+　　自拍 Self-Timer
+　　储存媒体 Storage Media
+　　随机附赠内存 Attached Storage
+　　不压缩格式 Uncompressed Image Format
+　　压缩格式 Compressed Image Format
+　　画质选择 Tuning
+　　观景窗 Viewfinder
+　　液晶屏幕 LCD Display
+　　视讯输出 Video Output
+　　序列接口 Serial Interfaces
+　　USB 接口 USB Interfaces
+　　IrDA 接口(红外线） IrDA Interfaces
+　　自动对焦控制方式 Autofocus Control
+　　闪光灯指数 Guide Number
+　　重量 Weight
+　　尺寸规格 Dimensions
+　　使用电池/电池寿命 Power/ Battery Life

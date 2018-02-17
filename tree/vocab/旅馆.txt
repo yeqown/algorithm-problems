@@ -1,0 +1,119 @@
+information desk 问讯处 
+reception office 接待室 
+hotel register 旅客登记簿 
+registration form 登记表 
+newsstand 售报处 
+postal service 邮局服务处 
+shop 小卖部 
+bar 酒吧间 
+lounge 休息厅 
+roof garden 屋顶花园 
+billiard-room 球房 
+dining-room, dining hall 餐厅 
+men's room 男盥洗室 
+ladies' room 女盥洗室 
+cloak-room 存衣处 
+basement 地下室 
+cellar 地窖 
+broom closet 杂物室 
+room number 房间号码 
+room key 房间钥匙 
+suite 一套房间 
+single room 单人房间 
+double room 双人房间 
+sitting-room, living-room 起居室 
+sofa, settee 长沙发 
+easy chair 安乐椅 
+armchair 扶手椅 
+wicker chair 藤椅 
+folding chair 叠椅 
+swivel chair 转椅 
+rocking chair 摇椅 
+stool 凳子 
+stool 凳子 
+bench 条凳 
+tea table 茶几 
+desk 书桌 
+bookcase 书橱 
+bookshelf 书架 
+wardrobe 衣柜 
+built-in wardrobe, closet 壁橱 
+chest of drawers 五斗橱 
+screen 屏风 
+hat rack 帽架 
+rug 小地毯 
+carpet 大地毯 
+single bed 单人床 
+double bed 双人床 
+twin beds 成对床 
+mattress 褥子 
+quilt 被 
+blanket 毯子 
+sheet 床单 
+bedspread 床罩 
+cotton terry blanket 毛巾被 
+pillow 枕头 
+pillow 枕头 
+pillowcase 枕套 
+mat 席 
+cushion 垫子 
+bathroom 浴室 
+bath tub 浴盆 
+shower bath, shower 淋浴 
+cold and hot water taps 冷热自来水龙头 
+sprinkle-nozzle, (shower) nozzle 喷头 
+dressingtable 梳妆台 
+mirror 镜子 
+washbasin 洗脸盆 
+towel 毛巾 
+toilet, lavatory, washroom 卫生间 
+water closet, W.C. 厕所；抽水马桶 
+toilet roll, toilet paper 卫生纸 
+bath towel 浴巾 
+bathrobe 浴衣 
+towel rail, towel rack 毛巾架 
+sponge 海绵 
+waste-paper basket 废纸篓 
+thermometer 温度计 
+balcony 阳台 
+balcony 阳台 
+sash window 上下开关窗 
+shutters 百叶窗 
+transom, transom window 气窗 
+curtain 窗帘 
+lace curtain 挑花窗帘 
+windowsill 窗台 
+air-conditioned 有空调设备的 
+radiator 暖气片 
+central heating 暖气 
+ashtray 烟灰碟 
+smoking set 烟具 
+electric fan 电扇 
+chandelier, pendant lamp 吊灯 
+fluorescent lamp 日光灯 
+desk lamp 台灯 
+bedside lamp 床头灯 
+floor lamp 落地灯 
+wall lamp 壁灯 
+lampshade 灯罩 
+bulb holder 灯头 
+bulb 灯泡 
+screw-type bulb 罗口灯泡 
+bayonet-type bulb 卡口灯泡 
+frosted bulb 磨砂灯泡 
+opal bulb, opaque bulb 乳白灯泡 
+switch 开关 
+socket 插座 
+plug 插头 
+telephone 电话 
+electric iron 电熨斗 
+peg, hook 衣钩 
+clothes-hanger 衣架 
+door-mat 门前的擦鞋棕垫 
+manager 经理 
+attendant 服务员 
+desk clerk 值班服务员 
+waiter （餐厅）服务员 
+waitress （餐厅）女服务员 
+rent 租金 
+bill 账单 

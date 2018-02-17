@@ -1,0 +1,326 @@
+首席执行官        Chief Executive Officer
+部门经理          Branch Manager
+市场行政总监      Executive Marketing Director
+国际监管          Controller(International)
+运营总监          Director of Operations
+进出口经理        Import/Export Manager
+商店经理助理      Assistant Store Manager 
+操作经理          Operations Manager
+房地产经理        Property Manager
+首席运营官        Chief Operations Officer
+生产经理          Production Manager
+服务经理          Service Manager
+零售店经理        Retail Store Manager
+产品经理          Product Manager
+项目经理          Project Manager
+总经理            General Manager
+区域经理          Regional Manager
+管理顾问          Management Consultant
+仓库经理          Warehouse Manager
+运输经理          Transportation Manager
+库存管理经理      Inventory Control Manager
+办公室经理        Office Manager 
+助理             Staff Assistant
+办公室文员        General Office Clerk
+接待员            Receptionist
+订单输入文员      Order Entry Clerk
+副总裁            Vice-President
+行政主管          Administrative Director
+行政副总裁        Vice-President of Administration
+行政助理          Executive Assistant
+行政秘书          Executive Secretary
+票务代理          Ticket Agent
+保险协调员        Insurance Coordinator
+档案管理员        File Clerk
+
+市场与销售:
+
+销售副总裁        Vice-President of Sales 
+市场副总裁        Vice-President of Marketing 
+高级客户经理      Senior Account Manager
+销售主管          Sales Administrator 
+地区销售经理      Regional Sales Manager 
+地区客户经理      Regional Account Manager 
+房地产评估师      Real Estate Appraiser 
+采购经理          Merchandising Manager 
+市场顾问          Marketing Consultant 
+市场助理          Marketing Assistant 
+市场与销售总监    Marketing and Sales Director
+市场调查分析员    Market Research Analyst 
+厂家代表          Manufacturer's Representative 
+分公司权利总监    Director of Subsidiary Rights 
+复查代表          Callback Representative 
+客户管理助理      Assistant Account Executive 
+广告经理          Advertising Manager 
+广告协调员        Advertising Coordinator 
+广告助理          Advertising Assistant 
+客户代表          Account Representative 
+广告文撰写人      Ad Copywriter(Direct Mail) 
+批发采购员        Wholesale Buyer 
+旅行代办员        Travel Agent
+电话销售总监      Telemarketing Director 
+电话销售员        Telemarketer 
+电话调查员        Tele-Interviewer 
+销售员            Salesperson
+销售代表          Sales Representative
+销售经理          Sales Manager 
+销售执行者        Sales Executive 
+销售助理          Sales Assistant 
+零售采购员        Retail Buyer 
+房地产经理        Real Estate Manager 
+房地产经纪人      Real Estate Broker
+采购代理          Purchasing Agent 
+产品开发          Product Developer
+市场经理          Marketing Manager 
+市场实习          Marketing Intern 
+市场总监          Marketing Director 
+保险代理人        Insurance Agent 
+客户经理          Account Manager 
+
+计算机行业:
+
+应用软件程序员    Applications Programmer 
+电脑操作主管      Computer Operations Supervisor
+电脑技术员        Computer Technician 
+开发工程师        Developmental Engineer
+信息服务主管      Director of Information Services 
+信息分析          Information Analyst 
+局域网管理员      LAN Administrator
+网络管理经理      Manager of Network Administration 
+产品支持经理      Product Support Manager 
+承包商           Subcontractor (Programming) 
+电脑操作员       Computer Operator 
+硬件工程师       Hardware Engineer 
+电脑部经理       MIS Manager
+操作分析         Operations Analyst 
+项目经理         Project Manager 
+统计员           Statistician 
+系统分析         Systems Analyst 
+系统工程师       Systems Engineer
+系统程序员       Systems Programmer
+技术工程师T      Technical Engineer 
+
+技术：
+
+技术讲解员       Technical Illustrator
+研究发展技术员   Research and Development Technician
+质量管理检查员   Quality Control Inspector
+质量检测技术员   QA Test Technician
+精密度检查员     Precision Inspector
+技术支持专员     Technical Support Specialist
+工程技术员       Engineering Technician
+电子设备维修员   Electronic Equipment Repairer
+电信业顾问      Telecommunications Consultant
+技术指导讲师    Technical Instructor
+建筑师          Landscape Architect
+测量员          Surveyor 
+草图设计员      Drafter
+房屋验收        Building Inspector
+建筑师          Architect
+广播技术员      Broadcast Technician
+
+工程词汇:
+
+制造业工程师       Manufacturing Engineer 
+工程顾问           Engineering Consultant 
+环境工程师         Environmental Engineer 
+设备工程师         Facilities Engineer
+工业工程师         Industrial Engineer 
+电子工程师         Electronics Engineer 
+电机工程师         Electrical Engineer
+机械工程师         Mechanical Engineer 
+石油工程师         Petroleum Engineer 
+陶器工程师         Ceramic Engineer 
+化学工程师         Chemical Engineer 
+土木工程师         Civil Engineer
+电力工程师         Electrical Engineer 
+施工工程师         Field Engineer 
+航海工程师         Marine Engineer 
+产品工程师         Product Engineer
+品管工程师         Quality Control Engineer
+助理工程师         Assistant Engineer
+技术员             Technician
+
+会计与财务:
+
+注册会计师        Certified Public Accountant
+首席财务官        Chief Financial Officer
+收款负责人        Collections Officer
+保险承销商        Insurance Underwriter
+保险经济人        Insurance Broker
+银行事务管理员    Bank Administrator
+贷款管理员        Loan Administrator
+管理会计          Management Accountant
+抵抻保险员        Mortgage Underwriter
+工资经理          Payroll Manager
+审计员            Staff Auditor
+股票经纪人        Stock Broker
+税务会计          Tax Accountant
+税务检查员        Tax Inspector
+财务行政副总裁    Vice-President of Administration and Finance
+财务副总裁        Vice-President of Finance 
+贷款服务          Loan Services
+财务计划员        Financial Planner
+会计助理          Accounting Assistant
+会计经理          Accounting Manager
+会计文员          Accounting Clerk
+高级会计          Senior Accountant
+审计经理          Audit Manager
+保险分析员        Actuarial Analyst
+审计师            Auditor
+初级会计          Junior Accountant
+资金调拨          Bank Treasurer
+票据文员          Billing Clerk
+票据管理员        Billing Supervisor
+档案管理          Bookkeeper
+档案管理助理      Bookkeeping Clerk
+预算分析          Budget Analyst
+信用分析          Credit Analyst
+信用管理经理      Credit Manager
+财务分析          Financial Analyst
+财务顾问          Financial Consultant
+财务经理          Financial Manager
+银行出纳          Bank Clerk
+出纳员            Cashier
+
+
+法律词汇:
+
+警员             Police Officer 
+警官             Police Sergeant
+首席检察官助理   Assistant Attorney General 
+合同管理员       Contracts Manager 
+反贪调查员       Ombudsman 
+保安经理         Security Manager
+法律助理         Legal Assistant
+法律秘书         Legal Secretary 
+律师             Attorney
+消防员           Fire Fighter 
+法律职员         Law Clerk
+司法学生         Law Student 
+律师专职助手     Paralegal 
+法庭记者         Court Reporter 
+法律顾问         Counselor
+
+传媒词汇:
+
+编辑助理          Assistant Editor 
+广播制作人        Broadcast Producer 
+编辑主任          Editorial Director 
+信息专员          Information Support Specialist 
+执行编辑          Managing Editor
+制作编辑          Production Editor 
+公共关系          Public Relations 
+公共关系助理      Public Relations Assistant 
+电台播音员        Radio Announcer 
+广播节目总监      Radio Program Director 
+研讨会协调员      Symposium Coordinator 
+电视导演          Television Director 
+电视制片人        Television Producer
+电视制片工程师    Television Production Engineer 
+节目部主任        Program Director
+节目协调人        Program Coordinator 
+助理编辑          Associate Editor 
+作家              Author 
+专栏作家          Columnist 
+文件编辑          Copy Editor
+通讯记者          Correspondent
+编辑              Editor
+活动策划          Events Planner 
+新闻记者          Journalist
+校对              Proofreader
+广告员            Publicist 
+记者              Reporter 
+翻译员            Translator
+排字工人          Typesetter
+作者              Writer 
+
+艺术类词汇:
+
+服装设计师        Fashion Designer 
+电影摄制助理      Film Production Assistant 
+画面设计师        Graphic Designer
+装饰设计师        Interior Designer 
+制片协调员        Production Coordinator 
+男演员/女演员     Actor/Actress 
+艺术总监          Art Director
+舞蹈教练          Choreographer 
+喜剧演员          Comedian 
+舞蹈家            Dancer
+摄影师            Photographer 
+视觉艺术家        Visual Artist 
+服务行业词汇:
+办案员           Case Worker
+城市规划者       Urban Planner 
+临床医学家       Therapist
+社会工作者       Social Worker
+心理学家         Psychologist
+客户服务经理     Customer Service Manager 
+客户服务代表     Customer Service Representative
+健康俱乐部经理   Health Club Manager
+宾馆门房         Hotel Concierge
+食品检查员       Food Inspector
+餐厅经理         Restaurant Manager
+空中服务员       Flight Attendant
+厨师            Chef
+美容师          Cosmetologist
+饭店经理        Hotel Manager
+饭店职员        Hotel Clerk 
+发型师          Hairstylist
+空中小姐        Stewardess
+
+教育词汇:
+
+校长                  Principal
+外语教师              Foreign Language Teacher
+第二外语教师          ESL Teacher 
+图书管理员            Librarian
+大学教授              College Professor
+助理教师              Teacher Aide
+高级教师              Head Teacher
+心理咨询教师          School Psychologist
+体育教师              Physical Education Teacher
+计算机教师            Computer Teacher
+艺术教师              Art Instructor
+案卷保管员            Archivist
+家教/辅导教师         Tutor
+教练员                Coach
+讲师                  Instructor (Lecturer) 
+助教                  Assistant
+
+医学词汇:
+
+医疗主任              Clinical Director
+食疗技师              Dietary Technician
+急诊技师              Emergency Medical Technician 
+健美师                Fitness Instructor
+病历员                Medical Records Clerk
+看护员                Nursing Administrator
+职业疗法              Occupational Therapist
+药学师                Pharmacist
+药品技师              Pharmacy Technician
+理疗师                Physical Therapist
+助理医师              Physician's Assistant
+有氧治疗师            Respiratory Therapist
+语言心理学家          Speech Pathologist
+脊椎指压治疗者        Chiropractor
+牙科助理              Dental Assistant
+牙科医生              Dentist
+牙科保健              Dental Hygienist
+牙科技师              Dental Technician
+整牙医生              Orthodontist
+家庭护理              Home Health Aide
+实验技师              Lab Technician
+护士                  Nurse 
+看护助手              Nursing Aide
+护士长                Nursing Supervisor
+眼科医生              Optician
+助理兽医              Veterinary Assistant
+兽医                  Veterinarian
+精神病医师            Psychiatrist
+外科医生              Surgeon
+内科医生              Physician
+儿科医生              Pediatrician
+住院医师              Resident Doctor
+中医师                Herb Doctor
+助产士                Accoucheur

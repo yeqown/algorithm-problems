@@ -1,0 +1,89 @@
+±í¹ÃSecond cousin 
+±íÊåSecond cousin 
+±íĞÖµÜFather's sister's sons; male cousin 
+±íĞÖµÜMaternal male cousin 
+±íÖ¶Second cousin 
+±íæ¢ÃÃFather's sister's daughters; female cousin 
+±íæ¢ÃÃMaternal female cousin 
+²®¸¸/´óÒ¯Father's older brother; Elder uncle 
+²®Ä¸/´óÄïFather's older brother's wife; Aunt 
+²®Êå×æ¸¸Father's father's brother; Great uncle 
+²®Êå×æÄ¸Father's father's brother's wife; Great aunt 
+³¤ĞÖ/¸ç¸çOlder Brother 
+³¤æ¢/½ã½ãOlder Sister 
+´ó²®Husband's older brother; brother-in-law 
+´ó¹ÃHusband's older sister; sister-in-law 
+µÜ¸¾/µÜÃÃYounger brother's wife; sister-in-law 
+¶ù×ÓSon 
+¸¸Ç×/°Ö°ÖFather 
+¸ß×æ¸¸Great great grandfather 
+¸ß×æÄ¸Great great grandmother 
+¹«¹«Husband's father 
+¹Ã·òFather's sister's husband; Husband of paternal aunt; uncle 
+¹ÃÄ¸Father's sister; Paternal aunt 
+¹ÃÒ¯Father's father's sister's husband; Paternal grandaunt's husband 
+¼Ì¸¸Step father 
+¼ÌÄ¸Step mother 
+½óĞÖµÜHusband of wife's sister 
+¾Ë¸¸/¾Ë¾ËMother's brother; Maternal uncle 
+¾ËÄ¸/æ¡×ÓMother's brother's wife; Maternal uncle's wife 
+ÃÃ·òYounger sister's husband 
+Ä¸Ç×/ÂèÂèMother 
+ÄÚµÜ/Ğ¡¾Ë×ÓWife's younger brother 
+ÄÚĞÖ/´ó¾Ë×ÓWife's older brother 
+Å®¶ùDaughter 
+Å®ĞöDaughter's husband; Son-in-law 
+ÆÅÆÅHusband's mother; mother-in-law 
+ÆŞ×Ó/ÀÏÆÅWife 
+É©/É©×ÓOlder brother's wife; sister-in-law 
+ÉôÄ¸/Éô×ÓFather's younger brother's wife; Aunt 
+Êå¸¸/ÊåÊåFather's younger brother; Uncle 
+ÊåÕÉÄ¸Wife's aunt 
+ÊåÕÉÈËWife's uncle 
+ËïÅ®Son's daughter; Granddaughter 
+ËïÅ®ĞöSon's daughter's husband; Granddaughter's husband 
+ËïÏ±·òSon's son's wife; Grandson's wife 
+Ëï×ÓSon's son; Grandson 
+ÌÃĞÖµÜFather's brother's sons; Paternal male cousin 
+ÌÃæ¢ÃÃFather's brother's daughters; Paternal female cousin 
+Í¬°ûĞÖÃÃSibling 
+ÍâÉûSister's son 
+ÍâÉûWife's sibling's son 
+ÍâÉûÅ®Sister's daughter 
+ÍâÉûÅ®Wife's sibling's daughter 
+ÍâÉûÅ®ĞöSister's daughter's husband 
+ÍâÉûÏ±¸¾Sister's son's wife 
+ÍâËïDaughter's son; grandson 
+ÍâËïÅ®Daughter's daughter; granddaughter 
+Íâ×æ¸¸/Íâ¹«/ÀÏÒ¯Mother's father; Maternal grandfather 
+Íâ×æÄ¸/ÍâÆÅ/ÀÑÀÑMother's mother; Maternal grandmother 
+Ï±¸¾Son's wife; Daughter-in-law 
+Ğ¡¹ÃHusband's younger sister; sister-in-law 
+Ğ¡ÊåHusband's younger brother; brother-in-law 
+ĞşËïGreat great grandson 
+Ñø¸¸Foster, adopted father 
+ÑøÄ¸Foster, adopted mother 
+ÒÌ·òMother's sister's husband; Husband of mother's sister 
+ÒÌ½ã/´óÒÌWife's elder sister; sister-in-law 
+ÒÌÃÃ/Ğ¡ÒÌWife's younger sister; sister-in-law 
+ÒÌÄ¸/ÒÌÂèMother's sister 
+ÒÌÉûÄĞÅ®Wife's sister's children 
+Ó×µÜ/µÜµÜYounger Brother 
+Ó×ÃÃ/ÃÃÃÃYounger Sister 
+ÔÀ¸¸Wife's father, Father-in-law 
+ÔÀÄ¸Wife's mother, Mother-in-law 
+ÔøËïGreat grandson 
+Ôø×æ¸¸/ÀÏÒ¯Ò¯Father's father's father; Great grandfather£á 
+Ôø×æÄ¸/ÀÏÄÌÄÌFather's father's mother; Great grandmother 
+ÕÉ·ò/ÀÏ¹«Husband 
+Ö¶Å®Brother's daughter; niece 
+Ö¶Å®ĞöBrother's daughter's husband; niece's husband 
+Ö¶ËïGrandnephew 
+Ö¶ËïÅ®Grand niece 
+Ö¶Ï±¸¾Brother's son's wife; nephew's wife 
+Ö¶×ÓBrother's son; nephew 
+×æ¸¸/Ò¯Ò¯Father's father; Paternal grandfather 
+×æ¹ÃÄ¸/¹ÃÄÌÄÌFather's father's sister; 
+×æÄ¸/ÄÌÄÌFather's mother; Paternal grandmother 
+æ¢·ò/½ã·òOlder sister's husband 
+æ¨æ²Brother's wife; sister-in-law 

@@ -1,0 +1,33 @@
+姓　　 family name 
+名　　 First (Given) Name 
+性别　 sex 
+男　　 male 
+女　　 female 
+国籍　 nationality 
+国籍　 country of citizenship 
+护照号 passport No. 
+原住地 country of Origin　　 (Country where you live) 
+前往目的地国 destination country 
+登机城市　　 city where you boarded 
+签证签发地　 city where visa was issued 
+签发日期　　 date issue 
+前往国家的住址 address while in 
+街道及门牌号　number and street 
+城市及国家　　city and state 
+出生日期　　　date of Birth　(Birthdate) 
+年　　　　　　year 
+月　　　　　　month 
+日　　　　　　day　 
+偕行人数　　　accompanying number 
+职业　　　　　occupation 
+专业技术人员　professionals & technical 
+行政管理人员　legislators &administrators 
+办事员　　　　clerk 
+商业人员　　　commerce (Business People) 
+服务人员　　　service 
+农民　　　　　farmer 
+工人　　　　　worker 
+其他　　　　　others 
+无业　　　　　jobless 
+签名　　　　　signature 
+官方填写　　　official use only 

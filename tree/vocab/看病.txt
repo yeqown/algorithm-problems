@@ -1,0 +1,34 @@
+mental hospital精神病医院            clinic诊所   
+physician/internist内科医生          oculist/eye doctor眼科医生   
+surgon外科医生                       dentist牙医  
+vet兽医                              shrink心理医生   
+symptom症状                          have/catch a cold感冒  
+have a sore throat嗓子痛             have a stomachache胃痛 
+have a fever发烧                     pneumonia肺炎    
+flu流感                              have a cough咳嗽 
+have a headache头痛                  have a toothache牙痛 
+liver trouble肝炎                    allergy过敏症 
+twisted/sprained扭伤的               feel dizzy头晕 
+feel chilly觉得发冷                  asthma哮喘 
+diabetics糖尿病患者                  cramps抽筋 
+vomit/throw up/nauseate呕吐          diarrhea腹泻 
+vomitive/pukey恶心的                 luggies/phlegm痰 
+have a stuffed nose鼻子不通          cholera霍乱 
+stiff neck脖子发僵                   abscess脓肿 
+yellow fever黄热病                   hay fever枯草热 
+pills药丸                            mixture合剂 
+eyedrops眼药水                       syrup糖浆 
+pad药棉块                            vitamin维他命 
+tablet药片                           penicillin盘尼西林 
+antibiotic抗生素                     ointment药膏 
+medication药物                       aspirin阿司匹林 
+bandage绷带                          syringe注射器 
+stethoscope听诊器                    injection注射 
+preventive injection预防针           gauze纱布 
+cold cure感冒药                      sweating medicine发汗药 
+febrifuge退烧药                      capsule胶囊 
+case history病历                     extract拔牙 
+take one's temperature量体温         see a doctor看病 
+send for a doctor请医生              feel one's pulse量脉搏 
+take one's blood pressure量血压      give a prescription开药方 
+have an operation 动手术             make an appointment预约

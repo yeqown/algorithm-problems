@@ -1,0 +1,209 @@
+A. 肉品类 (鸡, 猪, 牛)
+
+Fresh Grade Legs 大鸡腿 
+Fresh Grade Breast 鸡胸肉
+Chicken Drumsticks 小鸡腿 
+Chicken Wings 鸡翅膀
+Minced Steak 绞肉 
+Pigs Liver 猪肝
+Pigs feet 猪脚 
+Pigs Kidney 猪腰
+Pigs Hearts 猪心 
+Pork Steak 没骨头的猪排
+Pork Chops 连骨头的猪排 
+Rolled Porkloin 卷好的腰部瘦肉
+Rolled Pork Belly 卷好的腰部瘦肉连带皮 
+Pork sausage meat 做香肠的绞肉
+Smoked Bacon 醺肉 
+Pork Fillet 小里肌肉
+Spare Rib Pork chops 带骨的瘦肉 
+Spare Rib of Pork 小排骨肉
+Pork ribs 肋骨可煮汤食用 
+Black Pudding 黑香肠
+Pork Burgers 汉堡肉 
+Pork-pieces 一块块的廋肉
+Pork Dripping 猪油滴 
+Lard 猪油
+Hock 蹄膀 
+Casserole Pork 中间带骨的腿肉
+Joint 有骨的大块肉　　　
+Stewing Beef 小块的瘦肉 
+Steak & Kidney 牛肉块加牛腰
+Frying steak 可煎食的大片牛排 
+Mimced Beef 牛绞肉
+Rump Steak 大块牛排 
+Leg Beef 牛键肉
+OX-Tail 牛尾 
+OX-heart 牛心
+OX-Tongues 牛舌 
+Barnsley Chops 带骨的腿肉
+Shoulder Chops 肩肉 
+Porter House Steak 腰上的牛排肉
+Chuck Steak 头肩肉筋、油较多 
+Tenderised Steak 拍打过的牛排
+Roll 牛肠 
+Cowhells 牛筋 
+Pig bag 猪肚 
+Homeycome Tripe 蜂窝牛肚
+Tripe Pieces 牛肚块 
+Best thick seam 白牛肚
+
+B. 海产类
+
+Herring 鲱 
+Salmon 鲑
+Cod 鳕 
+Tuna 鲔鱼
+Plaice 比目鱼 
+Octopus 章鱼
+Squid 乌贼 
+Dressed squid 花枝
+Mackerel 鲭 
+Haddock 北大西洋产的鳕鱼
+Trout 鳟鱼、适合蒸来吃 
+Carp 鲤鱼
+Cod Fillets 鳕鱼块，可做鱼羹，或炸酥鱼片都很好吃 
+Conger (Eel) 海鳗
+Sea Bream 海鲤 
+Hake 鳕鱼类
+Red Mullet 红鲣，可煎或红烧 来吃 
+Smoked Salmon 熏鲑
+Smoked mackerel with crushed pepper corn 带有黑胡椒粒的熏鲭
+Herring roes 鲱鱼子 
+Boiled Cod roes 鳕鱼子
+Oyster 牡蛎 
+Mussel 蚌、黑色、椭圆形、没壳的即为淡菜
+Crab 螃蟹 
+Prawn 虾
+Crab stick 蟹肉条 
+Peeled Prawns 虾仁
+King Prawns 大虾 
+Winkles 田螺
+Whelks Tops 小螺肉 
+Shrimps 小虾米
+Cockles 小贝肉 
+Labster 龙虾
+
+C. 蔬果类
+
+Potato 马铃薯 
+Carrot 红萝卜
+Onion 洋葱 
+Aubergine 茄子
+Celery 芹菜 
+White Cabbage 包心菜
+Red cabbage 紫色包心菜 
+Cucumber 大黄瓜
+Tomato 蕃茄 
+Radish 小红萝卜
+Mooli 白萝卜 
+Watercress 西洋菜
+Baby corn 玉米尖 
+Sweet corn 玉米
+Cauliflower 白花菜 
+Spring onions 葱
+Garlic 大蒜 
+Ginger 姜
+Chinese leaves 大白菜 
+Leeks 大葱
+Mustard & cress 芥菜苗 
+Green Pepper 青椒
+Red pepper 红椒 
+Yellow pepper 黄椒
+Mushroom 洋菇 
+Broccoliflorets 绿花菜
+Courgettes 绿皮南瓜，形状似小黄瓜，但不可生食 
+Coriander 香菜
+Dwarf Bean 四季豆 
+Flat Beans 长形平豆
+Iceberg 透明包心菜 
+Lettuce 莴苣菜
+Swede or Turnip 芜菁 
+Okra 秋葵
+Chillies 辣椒 
+Eddoes 小芋头
+Taro 大芋头 
+Sweet potato 蕃薯
+Spinach 菠菜 
+Beansprots 绿豆芽
+Peas 碗豆 
+Corn 玉米粒
+Sprot 高丽小菜心　　　
+Lemon 柠檬 
+Pear 梨子
+Banana 香蕉 
+Grape 葡萄 
+Golden apple 黄绿苹果、脆甜 
+Granny smith 绿苹果、较酸
+Bramleys 可煮食的苹果 
+Peach 桃子
+Orange 橙 
+Strawberry 草莓
+Mango 芒果 
+Pine apple 菠萝
+Kiwi 奇异果 
+Starfruit 杨桃
+Honeydew-melon 蜜瓜 
+Cherry 樱桃
+Date 枣子 
+lychee 荔枝
+Grape fruit 葡萄柚 
+Coconut 椰子
+Fig 无花果　　　
+
+D. 其它
+
+Long rice 长米，较硬，煮前先泡一个小时 
+Pudding rice or short rice 短米，较软
+Brown rice 糙米　　　
+THAI Fragrant rice 泰国香米 
+Glutinous rice 糯米
+Strong flour 高筋面粉 
+Plain flour 中筋面粉
+Self- raising flour 低筋面粉 
+Whole meal flour 小麦面粉
+Brown sugar 砂糖（泡奶茶、咖啡适用） 
+dark Brown Sugar 红糖（感冒时可煮姜汤时用）
+Custer sugar 白砂糖（适用于做糕点） 
+Icing Sugar 糖粉
+Rock Sugar 冰糖　　　
+Noodles 面条 
+Instant　noodles 方便面
+Soy sauce 酱油，分生抽浅色及老抽深色两种 
+Vinger 醋
+Cornstarch 太白粉 
+Maltose 麦芽糖
+Sesame Seeds 芝麻 
+Sesame oil 麻油
+Oyster sauce 蚝油 
+Pepper 胡椒
+Red chilli powder 辣椒粉
+Sesame paste 芝麻酱
+Beancurd sheet 腐皮 
+Tofu 豆腐
+Sago 西贾米 
+Creamed Coconut 椰油
+Monosidum glutanate 味精 
+Chinese red pepper 花椒
+Salt black bean 豆鼓 
+Dried fish 鱼干
+Sea vegetable or Sea weed 海带 
+Green bean 绿豆
+Red Bean 红豆 
+Black bean 黑豆
+Red kidney bean 大红豆 
+Dried black mushroom 冬菇
+Pickled mustard-green 酸菜 
+Silk noodles 粉丝
+Agar-agar 燕菜 
+Rice-noodle 米粉
+Bamboo shoots 竹笋罐头 
+Star anise 八角
+Wantun skin 馄饨皮 
+Dried chestuts 干粟子
+Tiger lily buds 金针 
+Red date 红枣
+Water chestnuts 荸荠罐头 
+Mu-er 木耳
+Dried shrimps 虾米 
+Cashewnuts 腰果

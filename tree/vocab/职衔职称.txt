@@ -1,0 +1,232 @@
+立法机关 LEGISLATURE
+中华人民共和国主席/副主席 President/Vice President, the People’s Republic of China
+全国人大委员长/副委员长 Chairman/Vice Chairman, National People’s Congress 
+秘书长 Secretary-General 
+主任委员 Chairman
+委员 Member 
+（地方人大）主任 Chairman, Local People’s Congress 
+人大代表 Deputy to the People’s Congress
+政府机构 GOVERNMENT ORGANIZATION 
+国务院总理 Premier, State Council 
+国务委员 State Councilor 
+秘书长 Secretary-General 
+（国务院各委员会）主任 Minister in Charge of Commission for 
+（国务院各部）部长 Minister 
+部长助理 Assistant Minister 
+司长 Director 
+局长 Director 
+省长 Governor 
+常务副省长 Executive Vice Governor 
+自治区人民政府主席 Chairman, Autonomous Regional People’s Government 
+地区专员 Commissioner, prefecture 
+香港特别行政区行政长官 Chief Executive, Hong Kong Special Administrative Region 
+市长/副市长 Mayor/Vice Mayor 
+区长 Chief Executive, District Government
+县长 Chief Executive, County Government
+乡镇长 Chief Executive, Township Government
+秘书长 Secretary-General 
+办公厅主任 Director, General Office
+（部委办）主任 Director 
+处长/副处长 Division Chief/Deputy Division Chief 
+科长/股长 Section Chief 
+科员 Clerk/Officer 
+发言人 Spokesman 
+顾问 Adviser 
+参事 Counselor 
+巡视员 Inspector/Monitor 
+特派员 Commissioner 
+外交官衔 DIPLOMATIC RANK 
+特命全权大使 Ambassador Extraordinary and plenipotentiary 
+公使 Minister 
+代办 Charge d’Affaires 
+临时代办 Charge d’Affaires ad Interim 
+参赞 Counselor 
+政务参赞 Political Counselor 
+商务参赞 Commercial Counselor 
+经济参赞 Economic Counselor 
+新闻文化参赞 Press and Cultural Counselor 
+公使衔参赞 Minister-Counselor 
+商务专员 Commercial Attaché 
+经济专员 Economic Attaché 
+文化专员 Cultural Attaché
+商务代表 Trade Representative 
+一等秘书 First Secretary 
+武官 Military Attaché 
+档案秘书 Secretary-Archivist 
+专员/随员 Attaché 
+总领事 Consul General 
+领事 Consul 
+司法、公证、公安 JUDICIARY,NOTARY AND PUBLIC SECURITY 
+人民法院院长 President, People’s Courts 
+人民法庭庭长 Chief Judge, People’s Tribunals 
+审判长 Chief Judge 
+审判员 Judge 
+书记 Clerk of the Court 
+法医 Legal Medical Expert
+法警 Judicial Policeman 
+人民检察院检察长 Procurator-General, People’s procuratorates
+监狱长 Warden 
+律师 Lawyer 
+公证员 Notary Public 
+总警监 Commissioner General 
+警监 Commissioner 
+警督 Supervisor 
+警司 Superintendent 
+警员 Constable 
+政党 POLITICAL PARTY
+中共中央总书记 General Secretary, the CPC Central Committee 
+政治局常委 Member, Standing Committee of Political Bureau, the CPC Central Committee 
+政治局委员 Member, Political Bureau of the CPC Central Committee 
+书记处书记 Member, secretariat of the CPC Central Committee 
+中央委员 Member, Central Committee 
+候补委员 Alternate Member 
+…省委/市委书记 Secretary,…Provincial/Municipal Committee of the CPC 
+党组书记 secretary, Party Leadership Group 
+社会团体 NONGOVERNMENTAL ORGANIZATION 
+会长 President 
+主席 Chairman 
+名誉顾问 Honorary Adviser
+理事 Trustee/Council Member 
+总干事 Director-General 
+总监 Director 
+工商金融 INDUSTRIAL, COMMERCIAL AND BANKING COMMUNITIES
+名誉董事长 Honorary Chairman 
+董事长 Chairman 
+执行董事 Executive Director 
+总裁 President 
+总经理 General Manager; C.E.O(Chief Executive Officer) 
+经理 Manager 
+财务主管 Controller 
+公关部经理 PR Manager 
+营业部经理 Business Manager 
+销售部经理 Sales Manager 
+推销员 Salesman 
+采购员 Purchaser
+导演Director
+演员Actor
+画师Painter
+指挥Conductor
+编导Scenarist
+录音师Sound Engineer
+舞蹈编剧Choreographer
+美术师Artist
+制片人Producer
+剪辑导演Montage Director
+配音演员Dubber
+摄影师Cameraman
+化装师Make-up Artist
+舞台监督Stage Manager
+售货员Sales Clerk
+领班Captain
+经纪人Broker
+高级经济师Senior Economist
+高级会计师Senior Accountant
+注册会计师Certified Public Accountant
+出纳员Cashier
+审计署审计长Auditor-General, Auditing Administration
+审计师Senior Auditor
+审计员Auditing Clerk
+统计师Statistician
+统计员Statistical Clerk
+厂长factory Managing Director
+车间主任Workshop Manager
+工段长Section Chief
+作业班长Foreman
+仓库管理员Storekeeper
+教授级高级工程师Professor of Engineering
+高级工程师Senior Engineer
+技师Technician
+建筑师Architect
+设计师Designer
+机械师Mechanic
+化验员Chemical Analyst
+质检员Quality Inspector
+高级农业师Senior Agronomist
+农业师Agronomist
+助理农业师Assistant Agronomist
+农业技术员Agricultural Technician
+中国科学院院长President, Chinese Academy of Sciences
+主席团执行主席Executive Chairman
+科学院院长President(Academies)
+学部主任Division Chairman
+院士Academician
+大学校长President, University
+中学校长Principal, Secondary School
+小学校长Headmaster, Primary School
+学院院长Dean of College
+校董事会董事Trustee, Board of Trustees
+教务主任Dean of Studies
+总务长Dean of General Affairs
+注册主管Registrar
+系主任Director of Department/Dean of the Faculty
+客座教授Visiting Professor
+交换教授Exchange Professor
+名誉教授Honorary Professor
+班主任Class Adviser
+特级教师Teacher of Special Grade
+研究所所长Director, Research Institute
+研究员Professor
+副研究员Associate Professor
+助理研究员Research Associate
+研究实习员Research Assistant
+高级实验师Senior Experimentalist
+实验师Experimentalist
+助理实验师Assistant Experimentalist
+实验员Laboratory Technician
+教授Professor
+副教授Associate Professor
+讲师Instructor/Lecturer
+助教Assistant
+高级讲师Senior Lecturer
+讲师Lecturer
+助理讲师Assistant Lecturer
+教员Teacher
+指导教师Instructor
+主任医师（讲课）Professor of Medicine
+主任医师（医疗）Professor of Treatment
+儿科主任医师Professor of Paediatrics
+主治医师Doctor-in-charge
+外科主治医师Surgeon-in-charge
+内科主治医师Physician-in-charge
+眼科主治医师Oculist-in-charge
+妇科主治医师Gynaecologist-in-charge
+牙科主治医师Dentist-in-charge
+医师Doctor
+医士Assistant Doctor
+主任药师Professor of Pharmacy
+主管药师Pharmacist-in-charge
+药师Pharmacist
+药士Assistant Pharmacist
+主任护师Professor of Nursing
+主管护师Nurse-in-charge
+护师Nurse Practitioner
+护士Nurse
+主任技师Senior Technologist
+主管技师Technologist-in-charge
+技师Technologist
+技士Technician
+总编辑Editor-in-chief
+高级编辑Full Senior Editor
+主任编辑Associate Senior Editor
+编辑Editor
+助理编辑Assistant Editor
+高级记者Full Senior Reporter
+主任记者Associate Senior Reporter
+记者Reporter
+助理记者Assistant Reporter
+编审Professor of Editorship
+编辑Editor
+助理编辑Assistant Editor
+技术编辑Technical Editor
+技术设计员Technical Designer
+校对Proofreader
+译审Professor of Translation
+翻译Translator/Interpreter
+助理翻译Assistant Translator/Interpreter
+广播电视RADIO AND TELEVISION
+电台/电视台台长Radio/TV Station Controller
+播音指导Director of Announcing
+主任播音员Chief Announcer
+播音员Announcer
+电视主持人TV Presenter
+电台节目主持人Disk Jockey 

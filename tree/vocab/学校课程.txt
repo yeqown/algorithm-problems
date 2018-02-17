@@ -1,0 +1,61 @@
+大学英语College English
+高等数学Advanced Mathematics
+体育Physical Education
+军事理论Military Theory
+机械制图Mechanical Graphing
+算法语言Algorithmic Language
+大学物理College Physics
+物理实验Experiment of College Physics
+线性代数Linear Algebra
+法律基础Fundamentals of Law
+普通物理General Physics
+普通物理实验Lab of General Physics
+复变函数与积分变换Functions of Complex Variables & Integral Transformations
+电路理论Theory of Circuitry
+电路测试技术Circuit Measurement Technology
+概率论与随机过程Probability Theory & Stochastic Process
+信号与线性系统Signal & Linear System
+电子线路Circuitry
+脉冲与数字电路Pulse & Numerical Circuitry
+金工实习Metalworking Practice
+电工实习Electrical Engineering Practice
+CET4College English Test (Band 4)
+电子线路实验Experiment in Electronic Circuitry
+微机原理Principle of Microcomputer
+电磁场与电磁波Electromagnetic Fields & Magnetic Waves
+电机电器与供电Motor Elements and Power Supply
+计算方法Computational Method
+软件技术基础Basis of Software Technique
+微波技术Microwave Technique
+通讯原理Principle of Communication
+数字信号处理Digital Signal Processing
+微机实验Experiment of Microcomputer
+计算机接口技术Computer Interface Technology
+c 语言C language
+CET6College English Test (Band 6)
+工业企业管理Industrial Enterprise Management
+移动通讯Moving Communication
+光纤通讯系统Fiber Optical Communication System
+可靠性技术导论Introduction to Reliability Technology
+卫星通信Satellite Communications
+电视原理Television Operation
+数字图象处理Digital Image Processing
+专业英语Specialty English
+情报检索Information Searches
+毕业设计Graduation Thesis
+自动控制理论Automatic Control Theory
+模拟电子电路Analogical Electronics
+数字电子电路Digital Electronics
+资本主义经济Economy of Capitalism
+马克思主义原理Principle of Marxism
+机械原理Principle of Mechanic
+机械设计Mechanic Design
+最优控制Optimum Control
+微机控制技术Microcomputer Control Technology
+过程控制Procedure Control
+自动控制系统Automatic Control System
+半导体变流技术Semiconductor converting Technique
+运筹学Operational Research
+自动检测技术AutoMeasurement Technique
+传感器原理Principle of Sensing Device
+单片机原理Principle of SingleChip computer
