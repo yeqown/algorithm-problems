@@ -4,13 +4,12 @@
 问最后机器人的坐标是多少？
 */
 
-/*
-！！没有实现重复指令！！
-*/
 package array
 
 import (
 	"fmt"
+	// "time"
+	// "strconv"
 )
 
 const (
@@ -43,6 +42,9 @@ func NewRobot() *Robot {
 	}
 }
 
+/*
+according to $orderChar to deside which direction to walk or step
+*/
 func (r *Robot) judgeOrderChar(orderChar rune) {
 	switch orderChar {
 	// case "L":
@@ -62,6 +64,53 @@ func (r *Robot) judgeOrderChar(orderChar rune) {
 	}
 }
 
+/*
+ Decode `FR3(L2(RR)B)LLFRBLF` to `FR LLL RRRRRRRRRRRR BBB LLFRBLF`
+*/
+func (r *Robot) DecodeOrder(order string) string {
+
+	var (
+		dupOpCnt   int = 0
+		dupTime    int = 1
+		lastDupPos int = -1
+		dupStr     string
+	)
+Loop:
+	for i, c := range order {
+
+		if c == 40 {
+			dupOpCnt += 1
+			lastDupPos = i
+		} else if c == 41 {
+			dupStr = order[lastDupPos+1 : i]
+			s := []byte{}
+			s = append(s, order[:lastDupPos-1]...)
+			for i := 0; i < dupTime; i++ {
+				s = append(s, dupStr...)
+			}
+			s = append(s, order[i+1:]...)
+			order = string(s)
+
+			fmt.Println("new order: ", order)
+			// time.Sleep(1 * time.Second)
+
+			// reset
+			dupStr = ""
+			lastDupPos = -1
+			dupTime = 1
+			dupOpCnt = 0
+
+			goto Loop
+		} else if c >= 48 && c <= 57 {
+			dupTime = int(c) - 48
+		}
+	}
+	return order
+}
+
+/*
+ robot walk step and reset step
+*/
 func (r *Robot) walk() {
 	switch r.Direct {
 	case Top:
