@@ -10,6 +10,8 @@
  后缀表达式(or Reverse Polish Notation)  1 2 + 4 - 5 +
 */
 
+// 由于堆栈的实现原因导致，无法存储float类型数据，如果包含除法运算会出现结果不准
+
 package array
 
 import (
