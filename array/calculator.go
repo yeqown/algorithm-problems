@@ -15,10 +15,13 @@ package array
 import (
 	. "alg/_utils"
 
-	"fmt"
+	"math"
+	"strconv"
+	"strings"
+	// "fmt"
 )
 
-var PriorityMap = map[rune]int{
+var PriorityMap = map[int]int{
 	43: 1, // +
 	45: 1, // -
 	42: 2, // *
@@ -27,51 +30,99 @@ var PriorityMap = map[rune]int{
 	41: 3, // )
 }
 
-func ConvMid2Polish(expr string) Stack {
+func PolishTonationCalcu(polish string) int {
+	splited := strings.Split(polish, ",")
+	s := NewStack()
+	for i := len(splited) - 1; i >= 0; i-- {
+		if splited[i] == "" {
+			continue
+		}
+		num, _ := strconv.ParseFloat(splited[i], 64)
+		if num < 0 {
+			// 操作符
+			switch rune(math.Abs(num)) {
+			case '+':
+				s.Push(s.Pop() + s.Pop())
+			case '-':
+				s.Push(s.Pop() - s.Pop())
+			case '*':
+				s.Push(s.Pop() * s.Pop())
+			case '/':
+				s.Push(int(s.Pop() / s.Pop()))
+			default:
+				panic("wrong op char")
+			}
+		} else {
+			s.Push(int(num))
+		}
+	}
+	return s.Pop()
+}
+
+// 都是整型，如何区分操作符和数字
+func ConvMid2Polish(expr string) string {
 	s1 := NewStack()
 	s2 := NewStack()
 
+	// 用来处理多位整数
 	var (
-		num = 0
+		num    int     = 0
+		bitNum float64 = 0.0
 	)
 
-	for i := 0; i < len(expr); i++ {
-		c := expr[i]
+	for i := len(expr) - 1; i >= 0; i-- {
+		c := rune(expr[i])
+		int_c := int(c)
+		neg_c := -int_c
 
 		if IsNumber(c) {
-			num := ConvRuneNum2Int(c) + num*10
-			continue
-		} else if IsOpChar(c) {
-			s2.Push(num)
-			num = 0
-
-		Compare:
-			if s1.IsEmpty() || s1.Peek() == ')' {
-				s1.Push(c)
-			} else if PriorityMap[c] <= PriorityMap[s1.Peek()] {
-				s1.Push(c)
-			} else {
-				s2.Push(s1.Pop())
-				goto Compare
+			// 数字字符
+			int_c = int_c - 48
+			if num != 0 {
+				bitNum++
 			}
-		} else if IsParenthesis(c) {
-			s2.Push(num)
-			num = 0
+			num = int_c*int(math.Pow(10, bitNum)) + num
 
-			if IsRightParenthesis(c) {
-				s1.Push(c)
-			} else {
-				for s1.Peek() != ')' {
+			if i <= 0 {
+				s2.Push(num)
+			}
+		} else {
+			// 非数字字符
+			if num != 0 {
+				s2.Push(num)
+				num = 0
+				bitNum = 0
+			}
+
+			if IsOpChar(c) {
+			Compare:
+				s1_peek := int(math.Abs(float64(s1.Peek())))
+
+				if s1.IsEmpty() || s1_peek == ')' {
+					s1.Push(neg_c)
+				} else if PriorityMap[int_c] <= PriorityMap[s1_peek] {
+					s1.Push(neg_c)
+				} else {
 					s2.Push(s1.Pop())
+					goto Compare
+				}
+			} else if IsParenthesis(c) {
+				if IsRightParenthesis(c) {
+					s1.Push(int_c)
+				} else {
+					// 消除一对括号
+					for s1.Peek() != ')' && !s1.IsEmpty() {
+						s2.Push(s1.Pop())
+					}
+					s1.Pop()
 				}
 			}
 		}
-	}
+	} // for loop
 
-	for !s2.IsEmpty() {
-		s1.Push(s2.Pop())
+	// 把所有S1中的剩余元素全部压入S2中
+	for !s1.IsEmpty() {
+		s2.Push(s1.Pop())
 	}
-
-	fmt.Println(s1)
-	return s1
+	return s2.String()
 }
