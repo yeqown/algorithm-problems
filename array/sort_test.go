@@ -40,8 +40,8 @@ func Test_QuickSort(t *testing.T) {
 	}
 }
 
-func Test_QuickSort2(t *testing.T) {
-	if sorted := QuickSort2(arr); !EqualArray(sorted, excepted) {
-		t.Fatal("want: ", excepted, "have: ", sorted)
-	}
-}
+// func Test_QuickSort2(t *testing.T) {
+// 	if sorted := QuickSort2(arr); !EqualArray(sorted, excepted) {
+// 		t.Fatal("want: ", excepted, "have: ", sorted)
+// 	}
+// }
