@@ -9,6 +9,8 @@
 * Trap RainWater
 * Jump Game - II
 * Robot Walk
+* Stack Implement
+* Calculator(Integer)
 
 ### [Backtracking](https://github.com/yeqown/alg/tree/master/backtracking)
 
@@ -32,4 +34,4 @@
 
 ### [Tree](https://github.com/yeqown/alg/tree/master/tree)
 
-* 暂无
+* DATrie (not finish)
