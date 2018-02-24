@@ -45,3 +45,14 @@ func Test_SetMIN(t *testing.T) {
 		t.Fatal("error SetMIN")
 	}
 }
+
+func Test_StackString(t *testing.T) {
+	s := NewStack()
+	s.Push(1)
+	s.Push(2)
+	s.Push(3)
+	s.Push(4)
+
+	t.Log("want 4,3,2,1,")
+	t.Log("have", s)
+}

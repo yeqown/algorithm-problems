@@ -1,5 +1,9 @@
 package array
 
+import (
+	"fmt"
+)
+
 var (
 	MIN = -1
 )
@@ -85,4 +89,11 @@ func (s *Stack) Push(value int) {
 func (s *Stack) Clear() {
 	s.top = nil
 	s.length = 0
+}
+
+func (s *Stack) String() (str string) {
+	for !s.IsEmpty() {
+		str += fmt.Sprintf("%d,", s.Pop())
+	}
+	return
 }
