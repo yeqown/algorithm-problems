@@ -25,14 +25,13 @@
 * Sqrt
 * Maximum SubArray
 * Max of Array (try concurence and channel)
+![TestResult.jpg](./_res/maxOfArrayTestResult.jpg)
 
 ### [DP](https://github.com/yeqown/alg/tree/master/dp)
 
 * LIS (Longest Incr SubString)
 * LCS (Longest Common SubString)
 * LD (Levenshtein Distance)
-![TestResult.jpg](./_res/maxOfArrayTestResult.jpg)
-
 
 ### [Tree](https://github.com/yeqown/alg/tree/master/tree)
 
