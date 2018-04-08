@@ -24,6 +24,7 @@
 
 * Sqrt
 * Maximum SubArray
+* Max of Array (try concurence and channel)
 
 ### [DP](https://github.com/yeqown/alg/tree/master/dp)
 
