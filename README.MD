@@ -31,6 +31,7 @@
 * LIS (Longest Incr SubString)
 * LCS (Longest Common SubString)
 * LD (Levenshtein Distance)
+![TestResult.jpg](./_res/maxOfArrayTestResult.jpg)
 
 
 ### [Tree](https://github.com/yeqown/alg/tree/master/tree)
