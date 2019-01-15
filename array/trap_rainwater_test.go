@@ -1,9 +1,9 @@
 package array
 
 import (
-	. "alg/_utils"
-
 	"testing"
+
+	"github.com/yeqown/alg/utils"
 )
 
 func Test_TrapRainWater_case0(t *testing.T) {
@@ -55,8 +55,8 @@ func Test_trimZeroBesideOfArray(t *testing.T) {
 	arr := []int{0, 0, 0, 0, 1, 23, 2, 5, 62, 0}
 	excepted := []int{1, 23, 2, 5, 62}
 
-	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
-		t.Fatal("want array: ", excepted, "have: ", new_arr)
+	if newArr := trimZeroBesideOfArray(arr); !utils.EqualArray(newArr, excepted) {
+		t.Fatal("want array: ", excepted, "have: ", newArr)
 	}
 }
 
@@ -64,8 +64,8 @@ func Test_trimZeroBesideOfArray_case1(t *testing.T) {
 	arr := []int{0, 0, 0, 0}
 	excepted := []int{}
 
-	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
-		t.Fatal("want array: ", excepted, "have: ", new_arr)
+	if newArr := trimZeroBesideOfArray(arr); !utils.EqualArray(newArr, excepted) {
+		t.Fatal("want array: ", excepted, "have: ", newArr)
 	}
 }
 
@@ -73,8 +73,8 @@ func Test_trimZeroBesideOfArray_case2(t *testing.T) {
 	arr := []int{1, 0, 0, 0, 0, 1, 0}
 	excepted := []int{1, 0, 0, 0, 0, 1}
 
-	if new_arr := trimZeroBesideOfArray(arr); !EqualArray(new_arr, excepted) {
-		t.Fatal("want array: ", excepted, "have: ", new_arr)
+	if newArr := trimZeroBesideOfArray(arr); !utils.EqualArray(newArr, excepted) {
+		t.Fatal("want array: ", excepted, "have: ", newArr)
 	}
 }
 
@@ -82,7 +82,7 @@ func Test_lessOneArray(t *testing.T) {
 	arr := []int{1, 2, 3, 4, 0, 0, 2, 2, 2, 2}
 	excepted := []int{0, 1, 2, 3, 0, 0, 1, 1, 1, 1}
 
-	if new_arr := lessOneArray(arr); !EqualArray(new_arr, excepted) {
-		t.Fatal("want array: ", excepted, "have: ", new_arr)
+	if newArr := lessOneArray(arr); !utils.EqualArray(newArr, excepted) {
+		t.Fatal("want array: ", excepted, "have: ", newArr)
 	}
 }

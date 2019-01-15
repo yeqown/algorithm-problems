@@ -15,14 +15,14 @@
 package array
 
 import (
-	. "alg/_utils"
-
 	"math"
 	"strconv"
 	"strings"
-	// "fmt"
+
+	"github.com/yeqown/alg/utils"
 )
 
+// PriorityMap ...
 var PriorityMap = map[int]int{
 	43: 1, // +
 	45: 1, // -
@@ -77,7 +77,7 @@ func ConvMid2Polish(expr string) string {
 		int_c := int(c)
 		neg_c := -int_c
 
-		if IsNumber(c) {
+		if utils.IsNumber(c) {
 			// 数字字符
 			int_c = int_c - 48
 			if num != 0 {
@@ -96,7 +96,7 @@ func ConvMid2Polish(expr string) string {
 				bitNum = 0
 			}
 
-			if IsOpChar(c) {
+			if utils.IsOpChar(c) {
 			Compare:
 				s1_peek := int(math.Abs(float64(s1.Peek())))
 
@@ -108,8 +108,8 @@ func ConvMid2Polish(expr string) string {
 					s2.Push(s1.Pop())
 					goto Compare
 				}
-			} else if IsParenthesis(c) {
-				if IsRightParenthesis(c) {
+			} else if utils.IsParenthesis(c) {
+				if utils.IsRightParenthesis(c) {
 					s1.Push(int_c)
 				} else {
 					// 消除一对括号

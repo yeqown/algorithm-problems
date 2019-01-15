@@ -1,7 +1,8 @@
 // 数组常用操作
 
-package _utils
+package utils
 
+// EqualArray ...
 func EqualArray(arr1, arr2 []int) bool {
 	if len(arr1) != len(arr2) {
 		return false
@@ -14,6 +15,7 @@ func EqualArray(arr1, arr2 []int) bool {
 	return true
 }
 
+// MaxOfArray ...
 func MaxOfArray(arr []int) (max int) {
 	max = arr[0]
 
@@ -25,10 +27,12 @@ func MaxOfArray(arr []int) (max int) {
 	return max
 }
 
+// MidOfArrary ...
 func MidOfArrary(arr []int) (mid int) {
 	return arr[0]
 }
 
+// MaxOfThree ...
 func MaxOfThree(a, b, c int) (max int) {
 	max = a
 	if max < b {
@@ -40,6 +44,7 @@ func MaxOfThree(a, b, c int) (max int) {
 	return
 }
 
+// MinOfThree ...
 func MinOfThree(a, b, c int) (min int) {
 	min = a
 	if min > b {
@@ -51,6 +56,7 @@ func MinOfThree(a, b, c int) (min int) {
 	return
 }
 
+// MidOfThree ...
 func MidOfThree(a, b, c int) int {
 	max := MaxOfThree(a, b, c)
 	min := MinOfThree(a, b, c)

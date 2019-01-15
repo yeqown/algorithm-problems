@@ -26,8 +26,6 @@ import (
 	"fmt"
 )
 
-type Matrix [][]int
-
 func constructMatrix(rows, cols int) Matrix {
 	m := make([][]int, rows+1)
 	for i := 0; i <= rows; i++ {
@@ -36,19 +34,7 @@ func constructMatrix(rows, cols int) Matrix {
 	return m
 }
 
-func PrintMatrix(m Matrix) {
-	fmt.Print("col: \t ")
-	for i := 0; i < len(m[0]); i++ {
-		fmt.Print(i, " ")
-	}
-
-	fmt.Println()
-
-	for i := 0; i < len(m); i++ {
-		fmt.Println("row: ", i, m[i])
-	}
-}
-
+// MaxOfTwo ...
 func MaxOfTwo(a, b int) int {
 	max := a
 	if b > max {
@@ -57,6 +43,7 @@ func MaxOfTwo(a, b int) int {
 	return max
 }
 
+// PrintLCS ...
 func PrintLCS(m Matrix, str string, i, j int) {
 	if i == 0 || j == 0 {
 		return
@@ -72,19 +59,20 @@ func PrintLCS(m Matrix, str string, i, j int) {
 	}
 }
 
-var lcs []byte = []byte{}
+var lcs = []byte{}
 
+// LCS ...
 func LCS(strA, strB string) string {
 	var (
-		l_stra int = len(strA)
-		l_strb int = len(strB)
+		lStra = len(strA)
+		lStrb = len(strB)
 	)
 
 	// matrix := constructMatrix(rows, cols)
-	matrix := constructMatrix(l_stra, l_strb)
+	matrix := constructMatrix(lStra, lStrb)
 
-	for i := 1; i <= l_stra; i++ {
-		for j := 1; j <= l_strb; j++ {
+	for i := 1; i <= lStra; i++ {
+		for j := 1; j <= lStrb; j++ {
 			if strA[i-1] == strB[j-1] {
 				matrix[i][j] = matrix[i-1][j-1] + 1
 			} else {
@@ -93,7 +81,7 @@ func LCS(strA, strB string) string {
 		}
 	}
 
-	PrintLCS(matrix, strA, l_stra, l_strb)
+	PrintLCS(matrix, strA, lStra, lStrb)
 	fmt.Println()
 
 	return string(lcs)

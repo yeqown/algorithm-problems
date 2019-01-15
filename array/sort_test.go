@@ -1,8 +1,9 @@
 package array
 
 import (
-	. "alg/_utils"
 	"testing"
+
+	"github.com/yeqown/alg/utils"
 )
 
 var (
@@ -11,37 +12,37 @@ var (
 )
 
 func Test_BubbleSort(t *testing.T) {
-	if sorted := BubbleSort(arr); !EqualArray(sorted, excepted) {
+	if sorted := BubbleSort(arr); !utils.EqualArray(sorted, excepted) {
 		t.Fatal("want: ", excepted, "have: ", sorted)
 	}
 }
 
 func Test_DirectSelectSort(t *testing.T) {
-	if sorted := DirectSelectSort(arr); !EqualArray(sorted, excepted) {
+	if sorted := DirectSelectSort(arr); !utils.EqualArray(sorted, excepted) {
 		t.Fatal("want: ", excepted, "have: ", sorted)
 	}
 }
 
 func Test_InsertSort(t *testing.T) {
-	if sorted := InsertSort(arr); !EqualArray(sorted, excepted) {
+	if sorted := InsertSort(arr); !utils.EqualArray(sorted, excepted) {
 		t.Fatal("want: ", excepted, "have: ", sorted)
 	}
 }
 
 func Test_MergeSort(t *testing.T) {
-	if sorted := MergeSort(arr, 0, len(arr)-1); !EqualArray(sorted, excepted) {
+	if sorted := MergeSort(arr, 0, len(arr)-1); !utils.EqualArray(sorted, excepted) {
 		t.Fatal("want: ", excepted, "have: ", sorted)
 	}
 }
 
 func Test_QuickSort(t *testing.T) {
-	if sorted := QuickSort(arr); !EqualArray(sorted, excepted) {
+	if sorted := QuickSort(arr); !utils.EqualArray(sorted, excepted) {
 		t.Fatal("want: ", excepted, "have: ", sorted)
 	}
 }
 
 // func Test_QuickSort2(t *testing.T) {
-// 	if sorted := QuickSort2(arr); !EqualArray(sorted, excepted) {
+// 	if sorted := QuickSort2(arr); !utils.EqualArray(sorted, excepted) {
 // 		t.Fatal("want: ", excepted, "have: ", sorted)
 // 	}
 // }

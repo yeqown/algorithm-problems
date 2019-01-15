@@ -4,9 +4,10 @@
 package array
 
 import (
-	. "alg/_utils"
-	// "fmt"
+	"github.com/yeqown/alg/utils"
 )
+
+// "fmt"
 
 func BinaryInsertSort(nums []int) {
 
@@ -164,7 +165,7 @@ func QuickSort(nums []int) []int {
 
 	mid := (left + right) / 2
 	// set mid num as pivot
-	pivot := MidOfThree(nums[left], nums[right], nums[mid])
+	pivot := utils.MidOfThree(nums[left], nums[right], nums[mid])
 	// fmt.Printf("new quick sort with left: %d, right: %d, pivot: %d\n", left, right, pivot)
 
 	pivot_pos := mid

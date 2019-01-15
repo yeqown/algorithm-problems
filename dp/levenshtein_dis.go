@@ -33,18 +33,13 @@
 
 package dp
 
-import (
-	"fmt"
-	// "math"
-)
-
-type Matrix [][]int
-
+// LD ...
 type LD struct {
 	M          Matrix
 	Rows, Cols int
 }
 
+// constructMatrix ...
 func (ld *LD) constructMatrix() {
 
 	ld.M = make([][]int, ld.Rows+1)
@@ -60,27 +55,17 @@ func (ld *LD) constructMatrix() {
 	}
 }
 
+// (ld ...
 func (ld *LD) setMatrix(cost, row, col int) {
 	ld.M[row][col] = cost
 }
 
+// (ld ...
 func (ld *LD) getMatrix(cost, row, col int) int {
 	return ld.M[row][col]
 }
 
-func PrintMatrix(m Matrix) {
-	fmt.Print("col: \t ")
-	for i := 0; i < len(m[0]); i++ {
-		fmt.Print(i, " ")
-	}
-
-	fmt.Println()
-
-	for i := 0; i < len(m); i++ {
-		fmt.Println("row: ", i, m[i])
-	}
-}
-
+// minOfThree ...
 func minOfThree(a, b, c int) (min int) {
 	min = a
 	if min > b {
@@ -92,6 +77,7 @@ func minOfThree(a, b, c int) (min int) {
 	return
 }
 
+// LevenshteinDistance ...
 func LevenshteinDistance(source, dest string) int {
 	var cols, rows int = len(source), len(dest)
 	if cols == 0 {
@@ -100,20 +86,20 @@ func LevenshteinDistance(source, dest string) int {
 	if rows == 0 {
 		return cols
 	}
-	var ld *LD = &LD{Rows: rows, Cols: cols}
+	var ld = &LD{Rows: rows, Cols: cols}
 	ld.constructMatrix()
 	// PrintMatrix(ld.M)
 
 	// step 5
 	for c := 1; c <= cols; c++ {
 		for r := 1; r <= rows; r++ {
-			var cur_cost int = 1
+			var curCost = 1
 
 			if source[c-1] == dest[r-1] {
-				cur_cost = 0
+				curCost = 0
 			}
 			// step 6
-			cost := minOfThree(ld.M[r-1][c-1]+cur_cost, ld.M[r-1][c]+1, ld.M[r][c-1]+1)
+			cost := minOfThree(ld.M[r-1][c-1]+curCost, ld.M[r-1][c]+1, ld.M[r][c-1]+1)
 			// step 7
 			ld.setMatrix(cost, r, c)
 		}

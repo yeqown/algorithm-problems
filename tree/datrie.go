@@ -15,32 +15,30 @@
 
 package tree
 
-import (
 // "fmt"
-)
 
+// DATrie ...
 type DATrie struct {
 	Base  []int // 表示该位置的状态
 	Check []int // Check[i]表示该状态的前一状态，用于检查状态转移的正确
 }
 
-func NewDATrie() *DATrie {
+// NewDATrie ...
+func NewDATrie(words ...string) *DATrie {
 	root := &DATrie{}
 	root.Base[0] = 1
 	return root
 }
 
+// CharCode ...
 func CharCode(char byte) int {
-	return char - 97
+	return int(char) - 97
 }
 
-/**
- * @param word
- * @return
- */
-func (this *DATrie) Add(word string) {
+// Add ...
+func (d *DATrie) Add(word string) {
 	code := CharCode(word[0])
-	base := this.Base[0] + code
+	base := d.Base[0] + code
 
 	for i, c := range word {
 		// 处理叶子节点
@@ -48,34 +46,28 @@ func (this *DATrie) Add(word string) {
 
 		}
 
-		offset := CharCode(c) + this.Base[base]
-		pos := this.Base[1] + offset
+		offset := CharCode(byte(c)) + d.Base[base]
+		pos := d.Base[1] + offset
 
 		// 如果该位置为空
-		if this.Base[pos] == 0 {
+		if d.Base[pos] == 0 {
 
 		}
 		// 出现冲突
 	}
 }
 
-// func (this *DATrie) AllocateBase() int {
-// 	dbBase := make([]int, 2*len(this.Base))
+// func (d *DATrie) AllocateBase() int {
+// 	dbBase := make([]int, 2*len(d.Base))
 // 	// dbBase := append()
 // }
 
-/**
- * @param word
- * @return
- */
-func (this *DATrie) Delete(word string) {
+// Delete ...
+func (d *DATrie) Delete(word string) {
 
 }
 
-/**
- * @param prefix
- * @return
- */
-func (this *DATrie) Search(prefix string) {
+// Search ...
+func (d *DATrie) Search(prefix string) {
 
 }
