@@ -9,10 +9,12 @@ import (
 
 // "fmt"
 
+// BinaryInsertSort ...
 func BinaryInsertSort(nums []int) {
 
 }
 
+// InsertSort ...
 // 插入排序：（升序排列）
 // 时间复杂度：O(n) - O(n^2)
 // 空间复杂度：O(1)
@@ -30,7 +32,7 @@ func InsertSort(nums []int) []int {
 	return nums
 }
 
-// 选择排序
+// DirectSelectSort ...
 // 时间复杂度：O(n^2)
 // 空间复杂度：O(1)
 func DirectSelectSort(nums []int) []int {
@@ -49,12 +51,14 @@ func DirectSelectSort(nums []int) []int {
 	return nums
 }
 
-// 冒泡排序：
+// BubbleSort 冒泡排序：
 // 时间复杂度：O(n) - O(n^2)
 // 空间复杂度：O(1)
 func BubbleSort(nums []int) []int {
 	l := len(nums)
-	var flag bool = false
+	var (
+		flag bool
+	)
 
 	for i := 0; i < l; i++ {
 		for j := 1; j < l-i; j++ {
@@ -71,7 +75,7 @@ func BubbleSort(nums []int) []int {
 	return nums
 }
 
-// 归并排序, 也是分治的思想
+// MergeSort 归并排序, 也是分治的思想
 // 时间复杂度：O(nlogn) - O(n)
 // 空间复杂度：O(n)
 func MergeSort(nums []int, left, right int) []int {
@@ -87,14 +91,14 @@ func MergeSort(nums []int, left, right int) []int {
 }
 
 func merge(l, r []int) []int {
-	l_len := len(l)
-	r_len := len(r)
+	leftLen := len(l)
+	rightLen := len(r)
 
 	// malloc new memory
-	f := make([]int, l_len+r_len)
+	f := make([]int, leftLen+rightLen)
 	var fptr int
 	rptr, lptr := 0, 0
-	for rptr < r_len && lptr < l_len {
+	for rptr < rightLen && lptr < leftLen {
 		// 升序排列
 		fptr = rptr + lptr
 		if r[rptr] > l[lptr] {
@@ -106,14 +110,14 @@ func merge(l, r []int) []int {
 		}
 	}
 	// if one array is longger
-	if rptr >= r_len {
-		for lptr < l_len {
+	if rptr >= rightLen {
+		for lptr < leftLen {
 			fptr = lptr + rptr
 			f[fptr] = l[lptr]
 			lptr++
 		}
 	} else {
-		for rptr < r_len {
+		for rptr < rightLen {
 			fptr = lptr + rptr
 			f[fptr] = r[rptr]
 			rptr++
@@ -123,11 +127,11 @@ func merge(l, r []int) []int {
 	return f
 }
 
-// 快速排序, 分治的思想
+// QuickSort2 快速排序, 分治的思想
 // 时间复杂度：
 // 空间复杂度：
 
-// !!!! not pass
+// QuickSort2 !!!! not pass
 func QuickSort2(nums []int) []int {
 	if len(nums) <= 1 {
 		return nums
@@ -151,6 +155,7 @@ func QuickSort2(nums []int) []int {
 	return append(l, r...)
 }
 
+// QuickSort ...
 func QuickSort(nums []int) []int {
 	left := 0
 	right := len(nums) - 1
@@ -168,34 +173,34 @@ func QuickSort(nums []int) []int {
 	pivot := utils.MidOfThree(nums[left], nums[right], nums[mid])
 	// fmt.Printf("new quick sort with left: %d, right: %d, pivot: %d\n", left, right, pivot)
 
-	pivot_pos := mid
+	pivotPos := mid
 	if nums[left] == pivot {
-		pivot_pos = left
+		pivotPos = left
 	} else if nums[right] == pivot {
-		pivot_pos = right
+		pivotPos = right
 	}
 
-	pivot_pos, nums = partition(nums[left:right+1], pivot_pos)
+	pivotPos, nums = partition(nums[left:right+1], pivotPos)
 
 	// fmt.Println("sorted nums:", nums)
-	// fmt.Println("will new quick sort: left, pivot_pos, right", left, pivot_pos, right)
+	// fmt.Println("will new quick sort: left, pivotPos, right", left, pivotPos, right)
 
-	l := QuickSort(nums[:pivot_pos])
-	r := QuickSort(nums[pivot_pos:])
+	l := QuickSort(nums[:pivotPos])
+	r := QuickSort(nums[pivotPos:])
 
 	return append(l, r...)
 }
 
 // 分区操作
-func partition(nums []int, pivot_pos int) (int, []int) {
-	// fmt.Printf("partition pivot_pos: %d\n", pivot_pos)
-	pivot := nums[pivot_pos]
+func partition(nums []int, pivotPos int) (int, []int) {
+	// fmt.Printf("partition pivotPos: %d\n", pivotPos)
+	pivot := nums[pivotPos]
 
 	less := []int{}
 	greater := []int{}
 
 	for i := 0; i < len(nums); i++ {
-		if i == pivot_pos {
+		if i == pivotPos {
 			continue
 		}
 		if nums[i] < pivot {

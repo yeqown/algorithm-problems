@@ -32,6 +32,7 @@ var PriorityMap = map[int]int{
 	41: 3, // )
 }
 
+// PolishTonationCalcu ...
 func PolishTonationCalcu(polish string) int {
 	splited := strings.Split(polish, ",")
 	s := NewStack()
@@ -61,29 +62,29 @@ func PolishTonationCalcu(polish string) int {
 	return s.Pop()
 }
 
-// 都是整型，如何区分操作符和数字
+// ConvMid2Polish 都是整型，如何区分操作符和数字
 func ConvMid2Polish(expr string) string {
 	s1 := NewStack()
 	s2 := NewStack()
 
 	// 用来处理多位整数
 	var (
-		num    int     = 0
-		bitNum float64 = 0.0
+		num    int
+		bitNum float64
 	)
 
 	for i := len(expr) - 1; i >= 0; i-- {
 		c := rune(expr[i])
-		int_c := int(c)
-		neg_c := -int_c
+		intC := int(c)
+		negC := -intC
 
 		if utils.IsNumber(c) {
 			// 数字字符
-			int_c = int_c - 48
+			intC = intC - 48
 			if num != 0 {
 				bitNum++
 			}
-			num = int_c*int(math.Pow(10, bitNum)) + num
+			num = intC*int(math.Pow(10, bitNum)) + num
 
 			if i <= 0 {
 				s2.Push(num)
@@ -98,19 +99,19 @@ func ConvMid2Polish(expr string) string {
 
 			if utils.IsOpChar(c) {
 			Compare:
-				s1_peek := int(math.Abs(float64(s1.Peek())))
+				s1Peek := int(math.Abs(float64(s1.Peek())))
 
-				if s1.IsEmpty() || s1_peek == ')' {
-					s1.Push(neg_c)
-				} else if PriorityMap[int_c] <= PriorityMap[s1_peek] {
-					s1.Push(neg_c)
+				if s1.IsEmpty() || s1Peek == ')' {
+					s1.Push(negC)
+				} else if PriorityMap[intC] <= PriorityMap[s1Peek] {
+					s1.Push(negC)
 				} else {
 					s2.Push(s1.Pop())
 					goto Compare
 				}
 			} else if utils.IsParenthesis(c) {
 				if utils.IsRightParenthesis(c) {
-					s1.Push(int_c)
+					s1.Push(intC)
 				} else {
 					// 消除一对括号
 					for s1.Peek() != ')' && !s1.IsEmpty() {

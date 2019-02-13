@@ -13,12 +13,17 @@ import (
 )
 
 const (
-	Top   = iota // 0
-	Left         // 1
-	Down         // 2
-	Right        // 3
+	// Top 0
+	Top = iota
+	// Left 1
+	Left
+	// Down 2
+	Down
+	// Right 3
+	Right
 )
 
+// Point ...
 type Point struct {
 	X int
 	Y int
@@ -28,12 +33,14 @@ func (p Point) String() {
 	fmt.Printf("Point(%d,%d)\n", p.X, p.Y)
 }
 
+// Robot ...
 type Robot struct {
 	Direct int    // 方向
 	Step   int    // 是否需要前进一步
 	Pos    *Point // 当前位置
 }
 
+// NewRobot ...
 func NewRobot() *Robot {
 	return &Robot{
 		Direct: Top,
@@ -64,14 +71,12 @@ func (r *Robot) judgeOrderChar(orderChar rune) {
 	}
 }
 
-/*
- Decode `FR3(L2(RR)B)LLFRBLF` to `FR LLL RRRRRRRRRRRR BBB LLFRBLF`
-*/
+// DecodeOrder decode `FR3(L2(RR)B)LLFRBLF` to `FR LLL RRRRRRRRRRRR BBB LLFRBLF`
 func (r *Robot) DecodeOrder(order string) string {
 
 	var (
-		dupTime    int = 1
-		lastDupPos int = -1
+		dupTime    = 1
+		lastDupPos = -1
 	)
 Loop:
 	for i, c := range order {
@@ -122,6 +127,7 @@ func (r *Robot) walk() {
 	r.Step = 0
 }
 
+// LoadOrder ...
 func (r *Robot) LoadOrder(order string) Point {
 	for _, char := range order {
 		r.judgeOrderChar(char)

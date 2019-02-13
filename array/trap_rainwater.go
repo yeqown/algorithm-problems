@@ -16,15 +16,13 @@ Given [0,1,0,2,1,0,1,3,2,1,2,1], return 6.
 
 package array
 
-import (
 // "fmt"
-)
 
-// approch 1
+// TrapRainWater approch 1
 // 总结：时间耗费和空间耗费都比较高，意味着还需要继续训练算法思想，这个算比较笨的蛮力法
 // Time Limit Exceeded
 func TrapRainWater(nums []int) int {
-	var trapped_rw int = 0
+	var trappedRw int
 
 	for true {
 		if len(nums) < 3 {
@@ -37,13 +35,13 @@ func TrapRainWater(nums []int) int {
 		for i := 0; i < len(nums); i++ {
 			// nums[i] is 0
 			if nums[i] == 0 {
-				trapped_rw += 1
+				trappedRw++
 			}
 		}
 		nums = lessOneArray(nums)
-		// fmt.Println("less one array:", nums, "now trap_water: ", trapped_rw)
+		// fmt.Println("less one array:", nums, "now trap_water: ", trappedRw)
 	}
-	return trapped_rw
+	return trappedRw
 }
 
 // 去除数组两端的0元素
@@ -78,32 +76,30 @@ func lessOneArray(nums []int) []int {
 	return nums
 }
 
-// approch 2
+// TrapRainWaterApproch2 approch 2
 //
 func TrapRainWaterApproch2(height []int) int {
 	l := len(height)
 	var (
-		left      int = 0
-		right     int = l - 1
-		left_max  int = 0
-		right_max int = 0
-		traped    int = 0
+		left, leftMax   int
+		right, rightMax int = l - 1, 0
+		traped          int
 	)
 
 	for left < right {
 		// 为什么这样设置切换条件呢？
 		if height[left] < height[right] {
-			if height[left] >= left_max {
-				left_max = height[left]
+			if height[left] >= leftMax {
+				leftMax = height[left]
 			} else {
-				traped += (left_max - height[left])
+				traped += (leftMax - height[left])
 			}
 			left++
 		} else {
-			if height[right] >= right_max {
-				right_max = height[right]
+			if height[right] >= rightMax {
+				rightMax = height[right]
 			} else {
-				traped += (right_max - height[right])
+				traped += (rightMax - height[right])
 			}
 			right--
 		}

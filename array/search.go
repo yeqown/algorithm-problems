@@ -6,12 +6,10 @@ package array
 * @return pos int 目标数的位置
  */
 
-import (
-// "fmt"
-)
-
+// MISS ...
 const MISS = -1
 
+// BinarySearch ...
 func BinarySearch(nums []int, left, right, target int) int {
 	mid := (left + right) / 2
 	pos := MISS

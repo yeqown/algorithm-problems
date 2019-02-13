@@ -19,31 +19,31 @@ import (
 )
 
 func findMaxValue(nums []int, start, limit int) (step int) {
-	max_weight := nums[start] + start
+	maxWeight := nums[start] + start
 	step = 1
 	end := start + limit
 
 	for i := start + 1; i <= end; i++ {
 		weight := i + nums[i]
-		if weight > max_weight {
-			max_weight = weight
+		if weight > maxWeight {
+			maxWeight = weight
 			step = i - start
 		}
 	}
 	return
 }
 
-// 使用贪心算法求解
+// Jump2 使用贪心算法求解
 func Jump2(nums []int) int {
 	var (
-		jump_time int = 0
+		jumpTime int
 	)
 
 	pos := 0
 	for pos < len(nums)-1 {
 		if pos+nums[pos] >= len(nums)-1 {
 			fmt.Println("out of range")
-			jump_time++
+			jumpTime++
 			break
 		}
 
@@ -51,7 +51,7 @@ func Jump2(nums []int) int {
 		fmt.Println("pos: ", pos, "nums[pos]:", nums[pos], "step:", step)
 
 		pos += step
-		jump_time++
+		jumpTime++
 	}
-	return jump_time
+	return jumpTime
 }
