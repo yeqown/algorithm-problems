@@ -19,38 +19,38 @@ import (
  */
 
 var (
-	HOUR  = []int{1, 2, 4, 8}
-	MIN   = []int{1, 2, 4, 8, 16, 32}
-	LEN_H = 4
-	LEN_M = 6
+	hour  = []int{1, 2, 4, 8}
+	min   = []int{1, 2, 4, 8, 16, 32}
+	lenH  = 4
 	times = []string{}
 )
 
-func help(h, m, num, start_point int) {
+func help(h, m, num, startPoint int) {
 
 	if num == 0 {
-		// fmt.Println(h, m, num, start_point)
+		// fmt.Println(h, m, num, startPoint)
 		times = append(times, fmt.Sprintf("%d:%02d", h, m))
 		return
 	}
 
-	for i := start_point; i < len(HOUR)+len(MIN); i++ {
-		if i < LEN_H {
-			h += HOUR[i]
+	for i := startPoint; i < len(hour)+len(min); i++ {
+		if i < lenH {
+			h += hour[i]
 			if h < 12 {
 				help(h, m, num-1, i+1)
 			}
-			h -= HOUR[i]
+			h -= hour[i]
 		} else {
-			m += MIN[i-LEN_H]
+			m += min[i-lenH]
 			if m < 60 {
 				help(h, m, num-1, i+1)
 			}
-			m -= MIN[i-LEN_H]
+			m -= min[i-lenH]
 		}
 	}
 }
 
+// ReadBinayWatch ...
 func ReadBinayWatch(num int) []string {
 	help(0, 0, num, 0)
 	return times
