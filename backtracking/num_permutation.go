@@ -13,7 +13,6 @@ Example:
 		[1,2,1],
 		[2,1,1]
 	]
-
 Solution: https://www.youtube.com/watch?v=nYFd7VHKyWQ
 */
 
@@ -37,11 +36,11 @@ func permuteUnique(nums []int) [][]int {
 		count[idx] = v
 		idx++
 	}
-	permteHelper(number, count, result, 0, results)
+	permuteHelper(number, count, result, 0, results)
 	return *results
 }
 
-func permteHelper(numbers, count []int, result []int, level int, results *[][]int) {
+func permuteHelper(numbers, count []int, result []int, level int, results *[][]int) {
 	// finnal length of a num slice
 	if level == len(result) {
 		*results = append(*results, append([]int{}, result...))
@@ -55,7 +54,7 @@ func permteHelper(numbers, count []int, result []int, level int, results *[][]in
 		}
 		result[level] = numbers[i]
 		count[i]--
-		permteHelper(numbers, count, result, level+1, results)
+		permuteHelper(numbers, count, result, level+1, results)
 		count[i]++
 	}
 }
