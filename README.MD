@@ -16,17 +16,21 @@
 ### [Backtracking](https://github.com/yeqown/alg/tree/master/backtracking)
 
 * Binary Watch
+* number permutation
 
 ### [BranchBound](https://github.com/yeqown/alg/tree/master/branch_conquer)
 
-* 暂无
+* leading election
+* reordered power of 2
 
 ### [DivConquer](https://github.com/yeqown/alg/tree/master/div_conquer)
 
 * Sqrt
 * Maximum SubArray
 * Max of Array (try concurence and channel)
-![TestResult.jpg](./_res/maxOfArrayTestResult.jpg)
+![TestResult.jpg](./resource/maxOfArrayTestResult.jpg)
+* judge square sum
+* `sqrt` implemention
 
 ### [DP](https://github.com/yeqown/alg/tree/master/dp)
 
