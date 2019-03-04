@@ -1,13 +1,13 @@
-package array_test
+package array
 
 import (
-	"github.com/yeqown/algorithm-problems/array"
+	// "github.com/yeqown/algorithm-problems/array"
 
 	"testing"
 )
 
-func TestStackOrder(t *testing.T) {
-	if n := stackOrder("ABCDF"); n != 12 {
-		t.Errorf("wrong stackOrder result")
+func Test_StackOrder(t *testing.T) {
+	if n := StackOrder("ABCD"); n != 14 {
+		t.Errorf("wrong stackOrder result, want: %d, got: %d", 14, n)
 	}
 }

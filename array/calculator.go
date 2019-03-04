@@ -99,7 +99,11 @@ func ConvMid2Polish(expr string) string {
 
 			if utils.IsOpChar(c) {
 			Compare:
-				s1Peek := int(math.Abs(float64(s1.Peak().(int))))
+				var peak int
+				if s1.Peak() != nil {
+					peak = s1.Peak().(int)
+				}
+				s1Peek := int(math.Abs(float64(peak)))
 
 				if s1.Empty() || s1Peek == ')' {
 					s1.Push(negC)
