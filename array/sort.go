@@ -4,7 +4,7 @@
 package array
 
 import (
-	"github.com/yeqown/alg/utils"
+	"github.com/yeqown/algorithm-problems/utils"
 )
 
 // "fmt"

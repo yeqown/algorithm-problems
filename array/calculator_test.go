@@ -1,6 +1,7 @@
-package array
+package array_test
 
 import (
+	"github.com/yeqown/algorithm-problems"
 	"testing"
 )
 

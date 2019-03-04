@@ -3,7 +3,7 @@ package array
 import (
 	"testing"
 
-	"github.com/yeqown/alg/utils"
+	"github.com/yeqown/algorithm-problems/utils"
 )
 
 func Test_TrapRainWater_case0(t *testing.T) {

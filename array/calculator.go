@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yeqown/alg/utils"
+	"github.com/yeqown/algorithm-problems/utils"
 )
 
 // PriorityMap ...
@@ -35,7 +35,7 @@ var PriorityMap = map[int]int{
 // PolishTonationCalcu ...
 func PolishTonationCalcu(polish string) int {
 	splited := strings.Split(polish, ",")
-	s := NewStack()
+	s := utils.NewStack()
 	for i := len(splited) - 1; i >= 0; i-- {
 		if splited[i] == "" {
 			continue
@@ -45,13 +45,13 @@ func PolishTonationCalcu(polish string) int {
 			// 操作符
 			switch rune(math.Abs(num)) {
 			case '+':
-				s.Push(s.Pop() + s.Pop())
+				s.Push(s.Pop().(int) + s.Pop().(int))
 			case '-':
-				s.Push(s.Pop() - s.Pop())
+				s.Push(s.Pop().(int) - s.Pop().(int))
 			case '*':
-				s.Push(s.Pop() * s.Pop())
+				s.Push(s.Pop().(int) * s.Pop().(int))
 			case '/':
-				s.Push(int(s.Pop() / s.Pop()))
+				s.Push(int(s.Pop().(int) / s.Pop().(int)))
 			default:
 				panic("wrong op char")
 			}
@@ -59,13 +59,13 @@ func PolishTonationCalcu(polish string) int {
 			s.Push(int(num))
 		}
 	}
-	return s.Pop()
+	return s.Pop().(int)
 }
 
 // ConvMid2Polish 都是整型，如何区分操作符和数字
 func ConvMid2Polish(expr string) string {
-	s1 := NewStack()
-	s2 := NewStack()
+	s1 := utils.NewStack()
+	s2 := utils.NewStack()
 
 	// 用来处理多位整数
 	var (
@@ -99,9 +99,9 @@ func ConvMid2Polish(expr string) string {
 
 			if utils.IsOpChar(c) {
 			Compare:
-				s1Peek := int(math.Abs(float64(s1.Peek())))
+				s1Peek := int(math.Abs(float64(s1.Peak().(int))))
 
-				if s1.IsEmpty() || s1Peek == ')' {
+				if s1.Empty() || s1Peek == ')' {
 					s1.Push(negC)
 				} else if PriorityMap[intC] <= PriorityMap[s1Peek] {
 					s1.Push(negC)
@@ -114,7 +114,7 @@ func ConvMid2Polish(expr string) string {
 					s1.Push(intC)
 				} else {
 					// 消除一对括号
-					for s1.Peek() != ')' && !s1.IsEmpty() {
+					for s1.Peak() != ')' && !s1.Empty() {
 						s2.Push(s1.Pop())
 					}
 					s1.Pop()
@@ -124,7 +124,7 @@ func ConvMid2Polish(expr string) string {
 	} // for loop
 
 	// 把所有S1中的剩余元素全部压入S2中
-	for !s1.IsEmpty() {
+	for !s1.Empty() {
 		s2.Push(s1.Pop())
 	}
 	return s2.String()
