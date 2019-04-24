@@ -4,6 +4,7 @@
 package array
 
 import (
+	"fmt"
 	"github.com/yeqown/algorithm-problems/utils"
 )
 
@@ -212,4 +213,58 @@ func partition(nums []int, pivotPos int) (int, []int) {
 	less = append(less, pivot)
 
 	return len(less), append(less, greater...)
+}
+
+// HeapSort 堆排序
+// O(n) = nlog(n),非稳定排序
+// reffered to https://www.cnblogs.com/chengxiao/p/6129630.html
+// 将给定无序序列构造成一个大顶堆（一般升序采用大顶堆，降序采用小顶堆)。
+//
+// 用数组表示的（完全二叉树），可以这样表达：
+// i的子节点下标为 2*i + 1 和 2 * i + 2. i的父节点下标为 (i-1)/2。
+//
+//        i
+//      /   \
+//  2*i+1   2*i+2
+//
+func HeapSort(arr []int) {
+	// 构建大顶堆
+	n := len(arr)
+	m := n / 2
+	for i := m - 1; i >= 0; i-- {
+		heap(arr, i, n)
+	}
+
+	// 交换堆顶元素到最后一位，并调整堆
+	for j := n - 1; j > 0; j-- {
+		arr[0], arr[j] = arr[j], arr[0] // 将堆顶元素与末尾元素进行交换
+		heap(arr, 0, j)                 // 重新对堆进行调整
+	}
+
+	fmt.Println(arr)
+}
+
+// 构建大顶堆
+func heap(arr []int, i, end int) {
+	cur := arr[i]
+
+	// 从i结点的左子结点开始，也就是2i+1处开始
+	for k := 2*i + 1; k < end; k = k*2 + 1 {
+		if k+1 < end && arr[k] < arr[k+1] {
+			// 如果左子结点小于右子结点，k指向右子结点
+			k++
+		}
+
+		if arr[k] > cur {
+			// 如果子节点大于父节点，将元素放到父节点的位置
+			arr[i] = arr[k]
+			i = k
+		} else {
+			// 如果子节点小于父节点，则不用处理
+			break
+		}
+
+		// 将父节点的值放到最终位置
+		arr[i] = cur
+	}
 }

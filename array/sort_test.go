@@ -46,3 +46,10 @@ func Test_QuickSort(t *testing.T) {
 // 		t.Fatal("want: ", excepted, "have: ", sorted)
 // 	}
 // }
+
+func Test_HeapSort(t *testing.T) {
+
+	if HeapSort(arr); !utils.EqualArray(arr, excepted) {
+		t.Fatal("want: ", excepted, "have: ", arr)
+	}
+}
