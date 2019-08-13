@@ -31,10 +31,6 @@ LRUCache cache = new LRUCache( 2 capacity );
 
 // https://blog.csdn.net/elricboa/article/details/78847305 LRU的几种实现
 // https://blog.csdn.net/wangsifu2009/article/details/6757352 几种页面置换算法
-type data struct {
-	key   int
-	value int
-}
 
 // LRUCache ...
 type LRUCache struct {
