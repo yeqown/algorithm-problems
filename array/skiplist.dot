@@ -1,0 +1,30 @@
+digraph skiplist {
+	rankdir="LR"
+	node [shape="record", height=".1"]
+
+	skiplist [label="<length> len: 5 | <level> level: 2 | <p> p: 0.25 | <max_level> max_level: 32 | <head> head_ptr | <tail> tail_ptr"]
+	// nodes
+	// nodename [label="<3> level 3 | <2> level 2 | <1> level  1 | <0> level 0 | head"]
+	NULL [label="<2> level_2 |<1> level_1 |score: 0.0000 | key: NULL"]
+	head [label="<2> level_2 |<1> level_1 |score: 0.0000 | key: head"]
+	smith [label="<1> level_1 |score: 0.2000 | key: smith"]
+	mary2 [label="<1> level_1 |score: 0.2300 | key: mary2"]
+	mary [label="<1> level_1 |score: 0.3000 | key: mary"]
+	alice [label="<2> level_2 |<1> level_1 |score: 0.4000 | key: alice"]
+	john [label="<1> level_1 |score: 0.5000 | key: john"]
+	
+
+	// edges
+	// head:3 -> a:3
+	skiplist:head -> head
+	skiplist:tail -> NULL
+	head:1->smith:1 [label="1"]
+	head:2->alice:2 [label="4"]
+	smith:1->mary2:1 [label="1"]
+	mary2:1->mary:1 [label="1"]
+	mary:1->alice:1 [label="1"]
+	alice:1->john:1 [label="1"]
+	alice:2->NULL:2 [label="1"]
+	john:1->NULL:1 [label="0"]
+	 
+}
