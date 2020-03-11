@@ -2,6 +2,12 @@
 
 [ACM常用算法](http://www.yichenxing.com/2017/07/28/dynamic-programming-analysis/)
 
+## 框架
+
+https://labuladong.gitbook.io/algo/dong-tai-gui-hua-xi-lie/dong-tai-gui-hua-xiang-jie-jin-jie
+重叠子问题、最优子结构、状态转移方程就是动态规划三要素
+明确「状态」 -> 定义 dp 数组/函数的含义 -> 明确「选择」-> 明确 base case
+
 ### 基本模型
 
 在现实生活中，有一类活动的过程，可将过程分成若干个互相联系的阶段，在它的每一阶段都需要作出决策，从而使整个过程达到最好的活动效果。
