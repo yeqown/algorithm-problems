@@ -1,3 +1,5 @@
+// Package array and file skiplist.go, skiplist is refer to redis skiplist.
+// https://github.com/antirez/redis/blob/06d490342f51cff316588a7a45124cc410b7d050/src/t_zset.c
 package array
 
 import (

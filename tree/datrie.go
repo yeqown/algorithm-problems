@@ -18,6 +18,7 @@ package tree
 // "fmt"
 
 // DATrie ...
+// TODO:
 type DATrie struct {
 	Base  []int // 表示该位置的状态
 	Check []int // Check[i]表示该状态的前一状态，用于检查状态转移的正确

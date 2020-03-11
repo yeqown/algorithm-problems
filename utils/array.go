@@ -28,6 +28,7 @@ func MaxOfArray(arr []int) (max int) {
 }
 
 // MidOfArrary ...
+// TODO:
 func MidOfArrary(arr []int) (mid int) {
 	return arr[0]
 }
