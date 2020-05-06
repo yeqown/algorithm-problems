@@ -50,7 +50,7 @@ def BFS(start, target): {
                     q.offer(x);
                     visited.add(x);
         # 划重点：更新步数在这里
-        step++;
+        step += 1;
     }
 }
 ```
