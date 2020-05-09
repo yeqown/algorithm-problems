@@ -35,12 +35,18 @@ func Sqrt(n int) int {
 }
 
 func NewtonIterSqrt(n int) float64 {
-	var x float64 = 1
+	var (
+		x0         = float64(n)
+		x  float64 = 1
+	)
 	for i := 0; i < 100; i++ {
 		x = (x + float64(n)/x) / 2
 		// if condition {
 		//		break
 		// }
+		if math.Abs(x0-x) < 1e-7 {
+			break
+		}
 	}
 	return x
 }
